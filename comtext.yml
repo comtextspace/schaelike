@@ -1,0 +1,9 @@
+vuepress:
+  title: "Архив работ Вальтраут Фрицевны Шелике"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
