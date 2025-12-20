@@ -34,9 +34,19 @@
 - [Мысли по поводу «ЛОГОС» №2, 2011 г.](шелике-мысли-по-поводу-логос-2-2011.md) (2009) [[files шелике-мысли-по-поводу-логос-2-2011]]
 - [Сверхдетерминация Луи Альтюссера](шелике-сверхдетерминация-луи-альтюссера.md) (2009) [[files шелике-сверхдетерминация-луи-альтюссера]]
 
-## Переводы
+## Новый перевод «Манифеста Коммунистической партии»
 
-- [Новый перевод «Манифеста Коммунистической партии»](https://the-communist-manifesto.comtext.space) [PDF](https://mega.nz/file/wDNEFI7Z#LJomV0YDyguhVRmbk-EXsXvRIBR_adnRJnWcg6nsD84){.file-link}
+[Параллельный текст](https://the-communist-manifesto.comtext.space) [PDF](https://mega.nz/file/wDNEFI7Z#LJomV0YDyguhVRmbk-EXsXvRIBR_adnRJnWcg6nsD84){.file-link}
+
+Редакции перевода в `doc`:
+
+* [KM_de-ru-ru-en_201010.doc](https://mega.nz/file/5fdkFB6T#lKKuLmPvtbccU_sfSiaXfO9altuK5a2bD1aKIXL-MP8){.file-link}
+* [KM_de-ru-ru-en_for FN6_190127.doc](https://mega.nz/file/9G1jgIwT#E7EsT4u5XBWsaNVpAEeO2HQc57NRKo5BjPXgz4gV2Lw){.file-link}
+* Предисловие [Annot_Predislovije_180919.doc](https://mega.nz/file/8etiRSzB#LynuOB8NISSQGLJmXzJJbX7uexy-lSLIA678cGrYqBo){.file-link}
+
+Дополнительные материалы:
+
+- **Козьмин Б. П.** [Кто был первым переводчиком на русский язык «Манифеста коммунистической партии»](козьмин-кто-был-первым-переводчиком-на-русский-язык-манифеста-коммунистической-партии.md) (2013) [[files козьмин-кто-был-первым-переводчиком-на-русский-язык-манифеста-коммунистической-партии]]
 
 ## Статьи
 
