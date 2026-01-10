@@ -1,6 +1,7 @@
 # Архив работ Вальтраут Фрицевны Шелике
 
 * [Вальтраут Фрицевна Шелике](https://ru.wikipedia.org/wiki/Шелике,_Вальтраут_Фрицевна) (ru.wikipedia.org)
+* [Waltraut "Travka" Fritzevna Schälike](https://en.wikipedia.org/wiki/Waltraut_Schälike) (en.wikipedia.org)
 * [wtschaelike.ru](https://web.archive.org/web/20230331000242/http://www.wtschaelike.ru/) (web.archive.org)
 
 [Биография](шелике-биография.md) (2015) [[files шелике-биография]]
