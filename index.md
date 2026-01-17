@@ -1,8 +1,8 @@
 # Архив работ Вальтраут Фрицевны Шелике
 
-* [Вальтраут Фрицевна Шелике](https://ru.wikipedia.org/wiki/Шелике,_Вальтраут_Фрицевна) (ru.wikipedia.org)
-* [Waltraut "Travka" Fritzevna Schälike](https://en.wikipedia.org/wiki/Waltraut_Schälike) (en.wikipedia.org)
-* [wtschaelike.ru](https://web.archive.org/web/20230331000242/http://www.wtschaelike.ru/) (web.archive.org)
+- [Вальтраут Фрицевна Шелике](https://ru.wikipedia.org/wiki/Шелике,_Вальтраут_Фрицевна) (ru.wikipedia.org)
+- [Waltraut "Travka" Fritzevna Schälike](https://en.wikipedia.org/wiki/Waltraut_Schälike) (en.wikipedia.org)
+- [wtschaelike.ru](https://web.archive.org/web/20230331000242/http://www.wtschaelike.ru/) (web.archive.org)
 
 [Биография](шелике-биография.md) (2015) [[files шелике-биография]]
 
@@ -15,9 +15,9 @@
 
 ## Лекции
 
-* Лекция [«Непознанный Маркс и исходные определения Марксом коммунизма»](https://www.youtube.com/watch?v=c_bqtskvBNM) (17.11.2016)
-* Лекция [«Любовь Карла Маркса и Женни Маркс»](https://www.youtube.com/watch?v=qYlittlpFM0) (05.05.2018)
-* Лекция [«О Ноябрьской революции в Германии»](https://www.youtube.com/watch?v=G3-SyeK91bQ) (09.11.2018)
+- Лекция [«Непознанный Маркс и исходные определения Марксом коммунизма»](https://www.youtube.com/watch?v=c_bqtskvBNM) (17.11.2016)
+- Лекция [«Любовь Карла Маркса и Женни Маркс»](https://www.youtube.com/watch?v=qYlittlpFM0) (05.05.2018)
+- Лекция [«О Ноябрьской революции в Германии»](https://www.youtube.com/watch?v=G3-SyeK91bQ) (09.11.2018)
 
 
 ## Конференция «Ильенковские чтения»
@@ -40,9 +40,9 @@
 
 Редакции перевода в `doc`:
 
-* [KM_de-ru-ru-en_201010.doc](https://mega.nz/file/5fdkFB6T#lKKuLmPvtbccU_sfSiaXfO9altuK5a2bD1aKIXL-MP8){.file-link}
-* [KM_de-ru-ru-en_for FN6_190127.doc](https://mega.nz/file/9G1jgIwT#E7EsT4u5XBWsaNVpAEeO2HQc57NRKo5BjPXgz4gV2Lw){.file-link}
-* Предисловие [Annot_Predislovije_180919.doc](https://mega.nz/file/8etiRSzB#LynuOB8NISSQGLJmXzJJbX7uexy-lSLIA678cGrYqBo){.file-link}
+- [KM_de-ru-ru-en_201010.doc](https://mega.nz/file/5fdkFB6T#lKKuLmPvtbccU_sfSiaXfO9altuK5a2bD1aKIXL-MP8){.file-link}
+- [KM_de-ru-ru-en_for FN6_190127.doc](https://mega.nz/file/9G1jgIwT#E7EsT4u5XBWsaNVpAEeO2HQc57NRKo5BjPXgz4gV2Lw){.file-link}
+- Предисловие [Annot_Predislovije_180919.doc](https://mega.nz/file/8etiRSzB#LynuOB8NISSQGLJmXzJJbX7uexy-lSLIA678cGrYqBo){.file-link}
 
 Дополнительные материалы:
 
@@ -103,3 +103,23 @@
 - [Предательство (Москва 1946-1949).](шелике-предательство.md) Не издавалось. [[files шелике-предательство]]
 - [40 лет в Киргизии. Начало (Фрунзе. 1949-1951).](шелике-40-лет-в-киргизии.md) Не публиковалось. [[files шелике-40-лет-в-киргизии]]
 - [Родина (Фрунзе 1985-1988).](шелике-родина.md) Отрывок опубликован «Дружба народов». Ежемесячный литературно-художественный и общественно-политический журнал. Орган Союза писателей СССР. №9, 1988. Целиком не издавалось. [[files шелике-родина]]
+
+## Сборники Академии Общественных Наук при ЦК КПСС
+
+- Методологический семинар в АОН. Вып. 1. Коммунисты и новые социальные движения (1983) [PDF](https://mega.nz/file/NKdEhYwJ#oOFhTjUpHdQhnVyGrfXLfGM6GUvfankPyTtPAShyphs){.file-link}
+- Труды научного симпозиума в АОН. Вып. 1. Великий Октябрь и проблемы марксистско-ленинской теории социалистичнской револции (1977) [PDF](https://mega.nz/file/MT0yEBgb#PCwgMl6lescgDLxdTHO8TRj2-n_Srcj0Dk81sXvpopI){.file-link}
+- Труды научного симпозиума в АОН. Вып. 2. Общие закономерности и особенности перехода от капитализма к социализму (1978) [PDF](https://mega.nz/file/dXsxQboL#emcpk_gz9m0h9pGP0wChiNoh20G-RNppVcW32TJYXOc){.file-link}
+- Труды научного симпозиума в АОН. Вып. 3. Переходные формы и типы общественнных преобразований в революционном процессе (1979) [PDF](https://mega.nz/file/5X81jawA#eSSmYqJeKoawL5ZF5Q3okgFWy7Mi9JIyoGKQvM0Eiwg){.file-link}
+- Труды научного симпозиума в АОН. Вып. 4. Некоторые вопросы теории и стратегии классовых и политических союзов на рубеже 70-80-х гг. (1980) [PDF](https://mega.nz/file/FLMikBbS#E3GiXVXtbkVm5LLe46IQf6JM-_Ui104Bz7_-6Cav80s){.file-link}
+- Труды научного симпозиума в АОН. Вып. 5. Интернациональное и национальное в современном революционном процессе (1981) [PDF](https://mega.nz/file/lDlGCBjY#eVGZBv66xjbmNOEoO-3cc96uWUDWsokF8sY5yT6iNDE){.file-link}
+- Труды научного симпозиума в АОН. Вып. 6. Революционная партия в современном мире (1982) [PDF](https://mega.nz/file/UC8AUCSI#nawVhsXG-8xWx1jz6L1NpVpzpfF2U5jClXKO0bcXGMs){.file-link}
+- Труды научного симпозиума в АОН. Вып. 7. Проблема государства в революционной стратегии коммунистов (1982) [PDF](https://mega.nz/file/lGcCQbCS#ms5fuu1ILJRW5tloNH4cfj8dmdPUEw6ARmXdVPO126Y){.file-link}
+- Труды научного симпозиума в АОН. Вып. 8. Идеология и политика в революционном процессе современности (1983) [PDF](https://mega.nz/file/Me0mVDgJ#xF3YVZ5SjzMpWIbS8BPwS1vBqTnWBpJMspCUfZ-C6a0){.file-link}
+- Труды научного симпозиума в АОН. Вып. 9. Международные отношения и мировой революционныйпроцесс (1984) [PDF](https://mega.nz/file/QWNR3IqD#uRSFchvR43jR1pSgKkuorSWkvysRQqxnbxpWwBMnBeE){.file-link}
+- Труды научного симпозиума в АОН. Вып. 10. Проблемы революционного процесса и КП несоциалистических стран (1985) [PDF](https://mega.nz/file/gD9UXBxA#_EamOj5wnFYceMqmO7aSgMJsJ_jKwnsuJo76i4d5Et0){.file-link}
+- Труды научного симпозиума в АОН. Вып. 11. Сдвиги в социальной структуре рабочего класса (1985) [PDF](https://mega.nz/file/tS8CDYCQ#n8VI54D3I25xZukt9NsQP_DUv_P514yb29PEeFOyru8){.file-link}
+- Труды научного симпозиума в АОН. Вып. 12. Революционный процесс — объективные условия и субъективный фактор (1987) [PDF](https://mega.nz/file/1SshnSCR#IZxUb1NQjC-soB3JUDKK7W2YlSgkVLBP17HScLEfc0o){.file-link}
+- Труды научного симпозиума в АОН. Вып. 13. Новое политическое мышление (1987) [PDF](https://mega.nz/file/QH9wiaLS#fu7IP3JcIwlDNovyMceI7_UywmicEb3z-u0Aw_f81JU){.file-link}
+- Труды научного симпозиума в АОН. Вып. 14. Социальный прогресс в современном мире (1988) [PDF](https://mega.nz/file/FPtjBbrA#Q-YPkrxJCe9O3FlxmpNeIIyA5N0fc5PzL0SjXG85VWw){.file-link}
+  - [Критерии социального прогресса и проблема кризиса цивилизации](шелике-критерии-социального-прогресса-и-проблема-кризиса-цивилизации.md) [[files шелике-критерии-социального-прогресса-и-проблема-кризиса-цивилизации]]
+- Труды научного симпозиума в АОН. Вып. 15. Демократическая альтернатива неоконсерватизму (1989) [PDF](https://mega.nz/file/gXlESD6Z#Ndr3v7rlnte5FD9OH6V6DfZQzCqAmqIU_3uQrZhachs){.file-link}
