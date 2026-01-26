@@ -28,7 +28,9 @@ Menschheit führen kann. Dann kann es geschehen, dass keiner mehr da ist, um „
 Diese „Verhältnisse“ sind derart aktuell, wie es noch nie in der Geschichte der Fall war. Wir erleben sie in einer weit fortgeschrittenen Entwicklungsphase, die mit dem 19. Jahrhundert nicht mehr vergleichbar ist. Das ist eine Voraussetzung, sie zu begreifen und zu verstehen, ob und welche Möglichkeiten es gibt, diese Verhältnisse zu verändern. Diese Frage stellen sich heute Millionen von Menschen auf dieser Welt.
 Folglich kann man davon ausgehen, dass die menschlichen Verhältnisse zur Welt den Gesamtgegenstand der Forschung, also die Geschichte der Menschheit, auf dem abstraktesten Niveau in seiner Komplexität erfassen.
 Somit ist die Forderung an den methodologischen Ausgangspunkt der Theorie erfüllt, die den Anspruch auf Ganzheitlichkeit erhebt.
-<p align="center"><strong>Die Ausgangsdefinition „Welt“</strong></p>
+
+<strong>Die Ausgangsdefinition „Welt“</strong>
+
 Das weitere Definieren der menschlichen Verhältnisse zur Welt vollzieht sich vermittels des „Findens“ zweier allgemeiner Seiten der Welt, was zunächst durch eine Zweiteilung der Welt geschieht. In dieser Zergliederung stellt sich die Welt als die natürliche Welt und als die Menschenwelt dar. (1)
 Somit ist dann die eine Seite menschlicher Verhältnisse zur Welt das Verhalten der Menschen zur Natur, die andere Seite ist das Verhalten der Menschen zu Menschen. (2)
 Den nächsten Analyseschritt stellt die Bestimmung des Verhaltens beider Seiten zueinander dar, was als Wechselwirkung beider sich gegenseitig bedingender Seiten herausgearbeitet wird.
@@ -48,10 +50,14 @@ Der Kommunismus ist für Marx und Engels jene Stufe der Menschheitsgeschichte, d
 Ausgehend von dieser höchst abstrakten, verallgemeinerten Definition des Kommunismus folgt, dass der erste Versuch des Aufbaus des Sozialismus, der mit der Oktoberrevolution begann, in Wirklichkeit niemals Kommunismus war, wie das bisweilen behauptet wird, und aus der Entwicklungsstufe Zivilisation keineswegs „herausfällt“.
 Die nach dem Sieg der Oktoberrevolution geschaffene Gesellschaft löste die globalen Widersprüche zwischen Mensch und Natur nicht, da sie die Vernichtung der Natur aktiv fortsetzte. Sie löste auch nicht die globalen Probleme der Verhältnisse der Menschen zueinander. Die Menschen fuhren fort, einander zu vernichten. Jossif Stalin meinte einmal: „Alle Wege führen zum Kommunismus“. Die Praxis zeigte aber: Nein, bei weitem nicht alle! Einige führten unter scheinbar kommunistischen Losungen zu totalitären Zuständen und ins GULAG.
 
-<p align="left">Es gab bisher nirgends Kommunismus auf dieser Welt und heute wird es immer augenscheinlicher, dass die Menschheit sich immer noch mit den Widersprüchen zwischen Mensch und Natur und denen zwischen den Menschen herumplagt. Sie versinkt förmlich in einem Meer ungelöster globaler Probleme.
+Es gab bisher nirgends Kommunismus auf dieser Welt und heute wird es immer augenscheinlicher, dass die Menschheit sich immer noch mit den Widersprüchen zwischen Mensch und Natur und denen zwischen den Menschen herumplagt. Sie versinkt förmlich in einem Meer ungelöster globaler Probleme.
+
 Die Revolutionen des 20. Jahrhunderts haben die globalen Probleme der Menschheit nicht entwirrt. Sie harren nach wie vor ihrer „Befreiung“, auch wenn man heute in der herrschenden Ideologie und im Massenbewusstsein die Notwendigkeit des Überganges zu einer neuen Entwicklungsstufe der Geschichte der Menschheit nicht als Bewegung zum Kommunismus bezeichnet.
-<p align="center"><strong>Die Ausgangsdefinition „Mensch“</strong></p>
-<p align="left">Die Welt ist gespalten und voll von Wiedersprüchen. Vielfältig gespalten ist auch der Mensch. Marx und Engels betrachteten beim Menschen, wie auch bei der Welt, zwei allgemeine Ausgangsseiten.</p>
+
+<strong>Die Ausgangsdefinition „Mensch“</strong>
+
+Die Welt ist gespalten und voll von Wiedersprüchen. Vielfältig gespalten ist auch der Mensch. Marx und Engels betrachteten beim Menschen, wie auch bei der Welt, zwei allgemeine Ausgangsseiten.
+
 In den „Ökonomisch-philosophischen Manuskripten aus dem Jahre 1844“ bezeichnete Marx den Menschen als ein natürliches und gesellschaftliches Wesen. Der Mensch ist sowohl Bestandteil der Natur als auch der Gesellschaft. Der Mensch ist Natur (7) und der Mensch ist Gesellschaft. Marx bemerkte dazu: „…wie die Gesellschaft den Menschen als Menschen produziert, so ist sie durch ihn produziert.“ (8)
 Außerhalb der Natur und außerhalb der Gesellschaft gibt es im gesamten Verlauf der Geschichte keinen Menschen (keine Menschheit). Zwischen der natürlichen und der gesellschaftlichen Seiten der Menschen existieren Widersprüche, die zeitweilig eine solche Stärke erreichen, dass sie die Existenz des Menschen (der Menschheit) bedrohen.
 Ein deutliches Beispiel für eine solche Art von Widersprüchen zwischen dem Menschlichen und dem Natürlichen im Menschen sind die Kriege, die den Menschen zwingen, seine natürliche Todesangst in eigenem, fremdem oder gesellschaftlichem Interesse zu überwinden. Kriege machen das Leben des Menschen unmenschlich. In der Gegenwart versucht die Menschheit bereits, Kriege aus ihrem Leben unbedingt auszuschließen. Das ist ihr aber nicht gelungen. Es kommt immer wieder zu Kriegen.
@@ -73,7 +79,8 @@ Der Einzelne tritt als Subjekt menschlicher Verhältnisse zur Welt in Erscheinun
 Die Wechselwirkung zwischen dem Individuum und der Gesellschaft, die eine gegenseitige Stimulierung ergeben sollte, war im mutierten Sozialismus faktisch auf den Kopf gestellt. Es wurde das Primat der gesellschaftlichen Interessen vor den individuellen postuliert. Die Gesellschaft (in Gestalt des Staates) stand über dem Individuum. Ein solches Verhältnis ist — nach Marx und Engels — eben nur für die Periode der „Zivilisation“ (Sklavenhaltergesellschaft, Feudalismus und Kapitalismus) charakteristisch und widerspricht dem Kommunismus.
 Der Kommunismus setzt eine harmonische Entwicklung des Individuums (eines jeden) und der Gesellschaft (aller) voraus. Das heißt, er baut sich auf solchen menschlichen sozialen Verhältnissen auf, bei denen die freie Entwicklung eines jeden die Bedingung für die freie Entwicklung aller ist. Eine solche Wechselwirkung gab es im mutierten Sozialismus nicht, und von einer kommunistischen Gesellschaft kann somit wieder keinesfalls die Rede sein.
 
-<p align="center"><strong>Die ideellen und materiellen Verhältnisse der Menschen zur Welt</strong>
+<strong>Die ideellen und materiellen Verhältnisse der Menschen zur Welt</strong>
+
 Wie oben bereits gesagt, unterscheiden sich die menschlichen Verhältnisse zur Welt, nach Marx und Engels, von denen der Tiere dadurch, dass der Mensch die Existenz dieser Verhältnisse begreift, während das Tier in dieser Hinsicht „bewusstlos“ ist.
 Die Vorstellungen der Menschen von der Welt, ihre Ideen, Theorien über diese, schöpfen die Menschen, wie Marx und Engels bemerkten, aus ihren eigenen Verhältnissen zu ihr. Im Bewusstsein der Menschen, welches in der Gesellschaft die Form von Moral, Recht, Religion, Politik usw. annimmt, „transformieren“ sie
 ihre wirklichen Verhältnisse in Begriffe, d.h. in gedankliche, abstrakte Vorstellungen über konkrete Verhältnisse. (11)
