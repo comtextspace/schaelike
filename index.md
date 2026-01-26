@@ -181,7 +181,4 @@
 
 - [Легенда](отклик-шелике-легенда.md) (2011) [[files отклик-шелике-легенда]]
 - **Markus Kompa.** [Kinder des Hotel Lux](schälike-kompa-kinder-des-hotel-lux.md) (2011) [[files schälike-kompa-kinder-des-hotel-lux]]
-
-
-
-<h2><a href="http://www.wtschaelike.ru/?p=168" rel="bookmark">Из воспоминаний Е. Зингера</a></h2>
+- **Евгений Зингер.** [Из воспоминаний  Е. Зингера](отклик-шелике-из-воспоминаний-зингера.md) (2013) [[files отклик-шелике-из-воспоминаний-зингера]]
