@@ -65,8 +65,11 @@ Was diente für Marx und Engels als Ausgangspunkt ihrer Theorie? Gelang es Ihnen
 Findet man in den Arbeiten von 1844-46 überhaupt eine Antwort darauf?
 
 
-<p align="left">&lt;&lt; <a href="http://www.wtschaelike.ru/?page_id=58">Zurück</a></p>
-<p align="center"><strong>Am Anfang war…</strong></p>
+http://www.wtschaelike.ru/?page_id=58
+Zurück
+
+<strong>Am Anfang war…</strong>
+
 Zunächst ist es notwendig, den Gegenstand der Theorie exakt zu bestimmen. Denn jede Wissen-schaft, die bestimmte Aspekte des menschlichen Lebens und der Welt erforscht, hat ihren spezifischen Untersuchungsgegenstand, der sich von den Objekten anderer Wissenschaften unterscheidet. Für die Sozialpsychologie sind andere Objekte von Interesse als für die Psychoanalyse. Die Politwis-senschaften untersuchen andere Prozesse als die Kulturwissenschaften, was freilich nicht bedeutet, dass es zwischen ihnen keine "Querverbindung" "Überlappungen" oder "Teilmengen" gäbe.
 Die Untersuchungsgegenstände der einzelnen Geisteswissenschaften sind die Entäusserungen nur eines Teils der riesigen Vielfalt des Verhältnisses Mensch-Welt. Deshalb hielt es Marx für erforder-lich, im Vorwort zu seiner Arbeit über die Kapitalismustheorie im "Kapital" den Untersuchungsge-genstand exakt zu definieren. "Was ich in diesem Werk zu erforschen habe, ist die kapitalistische Produktionsweise und die ihr entsprechenden Produktions- und Verkehrsverhältnisse." (Karl Marx. Friedrich Engels. Werke. Dietz Verlag. Berlin. 1958, Bd. 23. S.12,
 
@@ -144,13 +147,17 @@ Eine Liebe z.B. ist durch das Verhalten der Liebenden zueinander gekennzeichnet.
 Die Definition des Verhaltens als Einheit von Verhalten und Verhältnis gestattet es, die innere Wi-dersprüchlichkeit menschlichen Verhaltens immer wieder zu entdecken. Hervorgerufen wird sie durch die Widersprüche zwischen den Verhältnissen in Form der Tätigkeit (des Verhaltens) des In-dividuums und den Verhältnissen als Resultat und Bedingung dieser Tätigkeit.
 
 Unter bestimmten Bedingungen können diese Widersprüche einen solchen Charakter annehmen, dass die Verhältnisse als feindliche, über den Menschen stehende Macht auftreten und als solche auch empfunden werden. In diesem Fall wandeln sich die menschlichen Verhältnisse in unmenschli-che. Es ist für den Leser sicher nicht schwer, Beispiele dafür in unserer Wirklichkeit auszumachen.
-<p align="right">&gt;&gt; <a href="http://www.wtschaelike.ru/?p=67">Weiter</a></p>
+
+http://www.wtschaelike.ru/?p=67
+Weiter
 
 ## Часть 2
 
+http://www.wtschaelike.ru/?page_id=58
+Zurück
 
-<p align="left">&lt;&lt; <a href="http://www.wtschaelike.ru/?page_id=58">Zurück</a></p>
-<p align="center"><strong>Am Anfang war…</strong></p>
+<strong>Am Anfang war…</strong>
+
 Zunächst ist es notwendig, den Gegenstand der Theorie exakt zu bestimmen. Denn jede Wissen-schaft, die bestimmte Aspekte des menschlichen Lebens und der Welt erforscht, hat ihren spezifischen Untersuchungsgegenstand, der sich von den Objekten anderer Wissenschaften unterscheidet. Für die Sozialpsychologie sind andere Objekte von Interesse als für die Psychoanalyse. Die Politwis-senschaften untersuchen andere Prozesse als die Kulturwissenschaften, was freilich nicht bedeutet, dass es zwischen ihnen keine "Querverbindung" "Überlappungen" oder "Teilmengen" gäbe.
 Die Untersuchungsgegenstände der einzelnen Geisteswissenschaften sind die Entäusserungen nur eines Teils der riesigen Vielfalt des Verhältnisses Mensch-Welt. Deshalb hielt es Marx für erforder-lich, im Vorwort zu seiner Arbeit über die Kapitalismustheorie im "Kapital" den Untersuchungsge-genstand exakt zu definieren. "Was ich in diesem Werk zu erforschen habe, ist die kapitalistische Produktionsweise und die ihr entsprechenden Produktions- und Verkehrsverhältnisse." (Karl Marx. Friedrich Engels. Werke. Dietz Verlag. Berlin. 1958, Bd. 23. S.12,
 
@@ -228,13 +235,17 @@ Eine Liebe z.B. ist durch das Verhalten der Liebenden zueinander gekennzeichnet.
 Die Definition des Verhaltens als Einheit von Verhalten und Verhältnis gestattet es, die innere Wi-dersprüchlichkeit menschlichen Verhaltens immer wieder zu entdecken. Hervorgerufen wird sie durch die Widersprüche zwischen den Verhältnissen in Form der Tätigkeit (des Verhaltens) des In-dividuums und den Verhältnissen als Resultat und Bedingung dieser Tätigkeit.
 
 Unter bestimmten Bedingungen können diese Widersprüche einen solchen Charakter annehmen, dass die Verhältnisse als feindliche, über den Menschen stehende Macht auftreten und als solche auch empfunden werden. In diesem Fall wandeln sich die menschlichen Verhältnisse in unmenschli-che. Es ist für den Leser sicher nicht schwer, Beispiele dafür in unserer Wirklichkeit auszumachen.
-<p align="right">&gt;&gt; <a href="http://www.wtschaelike.ru/?p=67">Weiter</a></p>
+
+http://www.wtschaelike.ru/?p=67
+Weiter
 
 ## Часть 3
 
+http://www.wtschaelike.ru/?p=66
+Zurück
 
-<p align="left">&lt;&lt; <a href="http://www.wtschaelike.ru/?p=66">Zurück</a></p>
-<p align="center"><strong>Die menschlichen Verhältnisse zur Welt — der Ausgangspunkt der marxistischen Geschichtstheorie</strong></p>
+<strong>Die menschlichen Verhältnisse zur Welt — der Ausgangspunkt der marxistischen Geschichtstheorie</strong>
+
 Nach dem oben Gesagten geht es jetzt darum, in den Arbeiten von Marx und Engels den Ausgangspunkt der materialistischen Geschichtstheorie zu finden
 
 Zunächst mag die Vielzahl der Möglichkeiten und Vorschläge, die dem aufgeklärten Leser dabei so-fort in den Sinn kommt, verwirren. Zumal wir bei Marx und Engels in den Arbeiten jener Periode, in der sie ihre erste grosse Entdeckung machten, keinen eindeutigen Hinweis darauf finden. In der "Deutschen Ideologie" gibt es einige Varianten für den methodologischen Voraussetzungen der Ge-schichtstheorie. Daraus erklären sich auch die unterschiedlichsten Herangehensweisen bei der Wie-dergabe der Marxschen Geschichtstheorie.
@@ -350,14 +361,22 @@ In der gegensätzlichen Einheit materieller und ideeller menschlicher Verhältni
 
 Eben dieses Rätsel der Geschichte versuchten Marx und Engels zu lösen, indem sie immer tiefer in die Spezifik menschlicher Verhältnisse zur Welt vordrangen.
 So entstand die Frage nach dem allgemeinen Mechanismus menschlichen Verhaltens. Wie verändert die Menschheit die Welt - die Welt der Natur und die Welt des Menschen?
-<p align="right">&gt;&gt; <a href="http://www.wtschaelike.ru/?p=68">Weiter</a></p>
+
+http://www.wtschaelike.ru/?p=68
+Weiter
 
 ## Часть 4
 
-<p align="left">&lt;&lt; <a href="http://www.wtschaelike.ru/?p=67">Zurück</a></p>
-<p align="center"><strong>Wie entstehen neue, menschliche Verhältnisse? </strong></p>
-<p align="center"><strong>Wesentliche Seiten menschlicher Tätigkeiten</strong></p>
-<p align="left">Marx und Engels definierten die Verhältnisse der Menschen zur Natur als "Bearbeitung der Natur durch Menschen" und die andere Seite der menschlichen Verhältnisse zur Welt als "die Bearbeitung der Menschen durch Menschen" ( Karl Marx. Friedrich Engels. Werke. Dietz Verlag.Berlin. 1958. B.3.S.36)</p>
+http://www.wtschaelike.ru/?p=67
+Zurück
+
+
+<strong>Wie entstehen neue, menschliche Verhältnisse? </strong>
+
+<strong>Wesentliche Seiten menschlicher Tätigkeiten</strong>
+
+Marx und Engels definierten die Verhältnisse der Menschen zur Natur als "Bearbeitung der Natur durch Menschen" und die andere Seite der menschlichen Verhältnisse zur Welt als "die Bearbeitung der Menschen durch Menschen" ( Karl Marx. Friedrich Engels. Werke. Dietz Verlag.Berlin. 1958. B.3.S.36)
+
 Die Bearbeitung der Natur durch die Menschen und die Bearbeitung der Menschen durch Menschen stellen die abstrakteste und allgemeinste Beschreibung zweier Seiten der menschlichen Tätigkeiten im Geschichtsprozess dar. Vermittels dieser Art Einwirkung auf die Welt verändern die Menschen die Natur und die Menschen (andere und sich selbst). Die Menschen verändern dementsprechend auch ihre Verhältnisse zur Natur und zu den Menschen. Die menschlichen Verhältnisse zur Welt verändern sich unablässig im ständigen Prozess der "Bearbeitung" der Natur und der Menschen.
 
 Die menschliche Bearbeitung der Natur und die Bearbeitung der Menschen durch Menschen erfolgt jeweils in der Einheit und der Gegensätzlichkeit dreifacher allgemeiner Arten menschlicher Tätigkei-ten, wobei jede von den dreien selbst zweiseitig ist. Das sind:
@@ -374,7 +393,8 @@ Es wird aufgezeigt, wie sich der ganzheitliche Mensch in einen "Teilmenschen" ve
 
 Die menschlichen Verhältnisse zur Welt drücken, in abstraktester Form, die allgemeinen Gesetz-mässigkeiten aller menschlichen Verhaltungsweisen aus.
 
-<p align="center"><strong>Die Wirklichkeit</strong>
+<strong>Die Wirklichkeit</strong>
+
 Diese allgemeinen Gesetzmässigkeiten erklären jedoch nicht die Besonderheiten ihrer Erscheinung in der historischen Wirklichkeit.
 Deshalb ist es erforderlich, von den allgemeinen Definitionen der menschlichen Verhältnisse zur Welt zu den allgemeinen Begriffsbestimmungen hinsichtlich der historischen Wirklichkeit zu kom-men. Dies haben Karl Marx und Friedrich Engels beim Übergang zu einer neuen Kategorienreihe vollzogen.
 
@@ -398,7 +418,8 @@ Sie werden im Prozess der Tätigkeit des Bewusstseins der Individuen zu Begriffe
 Die genannten drei Grundvoraussetzungen der historischen Wirklichkeit sind wie grundlegende ganzheitliche "Zellen""oder "Keime" der sich aus ihnen entwickelnden Wirklichkeit und der Defini-tion der Begriffe der Erkennungstheorie dieser Wirklichkeit.
 Mit anderen Worten: Diese dreiseitige "Zelle" enthält in sich gewissermassen den genetischen Code, der in jedem wichtigem Begriff enthalten ist und bleibt. Bei der Begriffsdefinition wird das in ihm angelegte Programm umgesetzt. Somit wird auf dem jeweiligen Analyseniveau die dazugehörige spezifische Definition ganzheitlich erarbeitet.
 
-<p align="center"><strong>Produktivkräfte, Kommunistische Revolution und soziale Tätigkeit</strong>
+<strong>Produktivkräfte, Kommunistische Revolution und soziale Tätigkeit</strong>
+
 Auf der Grundlage der Dreieinigkeit des Ausgangsveraeltnisses der Wirklichkeit erarbeiteten Marx und Engels z.B. die Ausgangsdefinition der Produktivkräfte. ( Siehe: Шелике В.Ф. Определение К.Марксом и Ф.Энгельсом производителüных сил в работе "Немецкая идеология". - Сборник научных трудов "К.Маркс и Ф.Энгельс о вопросах социальной диалектики." -Фрунзе. 1983.С.31-39)
 
 Die Produktivkräfte erscheinen:
@@ -441,8 +462,10 @@ c. die Menschen zeugen nicht nur, sondern töten auch Menschen, ihre sozialen Ve
 Auf dieser Ebene der Analyse bestimmen Marx und Engels den allgemeinen Inhalt sozialer Revolu-tionen. Soziale Revolutionen erwachsen aus der Vielfalt der konkret-historischen Widersprüche der gesamten sozialen Tätigkeiten der Menschen und sind dazu berufen, die Gesamtheit der sozialen Probleme der Menschheit zu lösen
 Alle dem Kommunismus vorangegangenen sozialen Revolutionen waren jedoch nur Teilrevolutio-nen, da sie gleichzeitig mit der Vernichtung einer Form der Entmenschlichung des Lebens der Men-schen und dem Aufbau neuer menschlicher Verhältnisse immer wieder auch neue entmenschlichten Lebensverhältnisse schufen. Die Menschheit hat noch nie ihr wirklich soziales Leben gelebt!
 
-<p align="center">Im Unterschied zu den sozialen Revolutionen der Vergangenheit ist die kommunistische Revolution umfassend, ganzheitlich. Sie verwirklicht den Übergang der Menschheit zu einem wirklich sozialen Leben. Die kommunistische Revolution kann nicht einen einmaligen revolutionären Akt erfolgen und nicht in den Grenzen nur eines Landes siegreich sein. Sie ist eine Weltbewegung. Die Kommu-nistische Revolution umfasst eine ganze Epoche, die inhaltlich unterschiedliche Revolutionen bein-haltet. In ihrem vielschichtigen Verlauf loesen die Menschen die globalen Probleme ihrer ent-menschten Verhaeltnisse und die Entmenschlichung des Lebens wird weltweit beseitigt. ( Siehe: Шелике В.Ф. К.Маркс и Ф. Энгельс об источниках социальной революции (по работам 1844-46ггю). "Проблемы теории революции и истории революционной мысли". Ученые записки Тартуского государственного университета. Труды по философии. Такту. 1986. С.9-19)
+Im Unterschied zu den sozialen Revolutionen der Vergangenheit ist die kommunistische Revolution umfassend, ganzheitlich. Sie verwirklicht den Übergang der Menschheit zu einem wirklich sozialen Leben. Die kommunistische Revolution kann nicht einen einmaligen revolutionären Akt erfolgen und nicht in den Grenzen nur eines Landes siegreich sein. Sie ist eine Weltbewegung. Die Kommu-nistische Revolution umfasst eine ganze Epoche, die inhaltlich unterschiedliche Revolutionen bein-haltet. In ihrem vielschichtigen Verlauf loesen die Menschen die globalen Probleme ihrer ent-menschten Verhaeltnisse und die Entmenschlichung des Lebens wird weltweit beseitigt. ( Siehe: Шелике В.Ф. К.Маркс и Ф. Энгельс об источниках социальной революции (по работам 1844-46ггю). "Проблемы теории революции и истории революционной мысли". Ученые записки Тартуского государственного университета. Труды по философии. Такту. 1986. С.9-19)
+
 <strong>Produktion, Verkehr und Gesellschaft.</strong>
+
 Die ursprünglichen und grundlegenden Seiten menschlicher sozialer Tätigkeit erhalten schliesslich eine neue, weitaus konkretere Definition mittels der Kategorientriade: Produktion, Verkehr, Ge-sellschaft. Diese Begriffsreihe vereint den gesamten Reichtum vorhergehender Definitionen menschlicher Verhältnisse zur Welt und dringt in die Tiefe des Wesens dieser ein.
 
 Ursprünglich wird die Produktion als die Produktion des Lebens der Menschen bezeichnet, die sich über drei allgemeine Seiten entfaltet:
@@ -502,7 +525,9 @@ Doch sind wir heute noch nicht in der Lage, ohne Staat zu leben. Würden wir uns
 Die ganze Kompliziertheit der heutigen Weltlage besteht darin, dass wir uns an einem Scheideweg befinden. Wir sind bereits Zeugen einer Umkehr der Menschen zu neuen, menschlicheren Verhält-nissen, wenngleich wir in einer Zeit leben, in der die unmenschliche noch dominieren.
 
 Unsere Aufgabe besteht darin, diese menschlichen Verhältnisse in unserer verkehrten Welt zu erken-nen und entsprechend unseren Möglichkeiten zu befördern. Marx und Engels können und konnten uns keine Lösungen für unsere heutigen Probleme als Nachlass hinterlassen. Aber die Methodologie des komplexen Herangehens an die unaufschiebbaren globalen Probleme der Menschheit haben sie uns in die Hand gegeben. Damit haben wir die Möglichkeit, die in der Welt vor sich gehenden Pro-zesse zu analysieren, die Welt in ihrer Ganzheitlichkeit und Vielfältigkeit zu erfassen. Wir sind da-mit in der Lage, den Reichtum der menschlichen Verhältnisse zur Welt und der Welt zum Menschen zu erkennen und auf Grund dieser Erkenntnisse zu handeln. Das ist das Erbe, welches uns die beiden grossen Denker hinterliessen.
-<p align="center"><strong>Schlussgedanken</strong></p>
+
+<strong>Schlussgedanken</strong>
+
 In ihrer praktischen revolutionären Tätigkeit stützten sich Marx und Engels auf ihre materialistische Geschichtstheorie, die sie aus den konkreten historischen Bedingungen des 19. Jahrhunderts ableite-ten.
 Sie wurden nicht müde zu betonen, dass ihre Schlussfolgerungen über die Art und Weise einer revo-lutionären Umgestaltung der menschlichen Verhältnisse zur Welt auf der Analyse der Gesamtheit der Widersprüche ihrer Zeit begründet war.
 
