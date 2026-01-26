@@ -1,7 +1,18 @@
-Wladislaw Hederle \"Utopie kreativ\"
+---
+format: comtext
+version: 2.0.0
+title: "Utopie kreativ"
+author:
+- Wladislaw Hederle
+---
 
-Utopie kreativ…..
-Waltraut Schälike:
+# Utopie kreativ
+
+Отзыв на работы Шелике Вальтраут Фрицевны. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 22.03.2011.
+
+---
+
+Waltraut Schälike: 
 »Ich wollte keine Deutsche sein«.
 Berlin-Wedding — Hotel »Lux« –
 Dietz Verlag. Herausgegeben von
@@ -34,7 +45,9 @@ für die Familie wichtige Ereignisse aus, die
 sich zwischen 1927 und 1946 zugetragen haben.
 Waltraut Schälike hat Auszüge aus Tagebüchern
 und Briefen der Eltern in ihren Text
-Bücher. </span>Zeitschriften </span><span style="font-size: 9.5pt; font-family: 'Times-Roman','serif'" lang="DE">1143
+Bücher.
+
+1143
 einfließen lassen. Ihre Kommentare betreffen
 anfangs auch Eindrücke und Ereignisse, die
 sie nur vom Hörensagen kannte und die zu
@@ -139,7 +152,9 @@ der Provinz unterschied, wie es um ihre »sterile
 Umgebung« beschaffen war (S. 166). Die
 ganze Zeit über gingen Briefe zwischen der
 Tochter und den Eltern hin und her. Waltraut
-<span style="font-size: 9.5pt; font-family: 'Times-Roman','serif'" lang="DE">1144 </span>Bücher </span><span style="font-size: 4.5pt; font-family: 'Times-Roman','serif'" lang="DE">. </span>Zeitschriften
+
+
+1144 Bücher. Zeitschriften
 war für die Brüder verantwortlich, die in
 einem 7 Kilometer entfernten Heim untergebracht
 waren.
@@ -198,4 +213,5 @@ an nahmen »unterschiedliche Schicksale« und
 faßt sie den wohl spannendsten, die meisten
 Fragen aufwerfenden Abschnitt ihrer Schilderung
 zusammen.
-<p class="MsoNormal"><span style="font-size: 10pt; line-height: 115%; font-family: 'Times-Roman','serif'">W</span><span style="font-size: 7.5pt; line-height: 115%; font-family: 'Times-Roman','serif'">LADISLAW </span><span style="font-size: 10pt; line-height: 115%; font-family: 'Times-Roman','serif'">H</span><span style="font-size: 7.5pt; line-height: 115%; font-family: 'Times-Roman','serif'">EDELER</span></p>
+
+LADISLAW EDELER
