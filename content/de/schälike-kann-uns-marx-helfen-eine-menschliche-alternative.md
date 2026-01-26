@@ -1,6 +1,18 @@
-TODO привести заголовок в нижний регистр
+---
+format: comtext
+version: 2.0.0
+title: "KANN UNS MARX HELFEN EINE MENSCHLICHE ALTERNATIVE ZUM GEGENWÄRTIGEN ZUSTAND DER WELT ZU FINDEN?"
+author:
+- Вальтраут Фрицевна Шелике
+---
 
 # KANN UNS MARX HELFEN EINE MENSCHLICHE ALTERNATIVE ZUM GEGENWÄRTIGEN ZUSTAND DER WELT ZU FINDEN?
+
+Шелике Вальтраут Фрицевна. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 21.01.2008.
+
+---
+
+TODO привести заголовок в нижний регистр
 
 Dr. Waltraut Schälike (Moskau). Vortrag, gehalten am 6. Februar 2006 am Institut für Soziologie der Russischen Akademie der Wissenschaften (RAN).
 

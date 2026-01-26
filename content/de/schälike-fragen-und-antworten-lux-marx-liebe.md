@@ -1,8 +1,18 @@
+---
+format: comtext
+version: 2.0.0
+title: "FRAGEN UND ANTWORTEN: „LUX“, MARX, LIEBE u. a."
+author:
+- Вальтраут Фрицевна Шелике
+---
+
+# FRAGEN UND ANTWORTEN: „LUX“, MARX, LIEBE u. a.
+
+Шелике Вальтраут Фрицевна. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 11.12.2010.
+
+---
+
 TODO заголовок сделать в нижнем регистре
-
-# FRAGEN UND ANTWORTEN: \"LUX\", MARX, LIEBE u. a. (DEZEMBER 2010)
-
-Dr. Waltraut Schälike
 
 <strong>BINI ADAMECZAK interviewt WALTRAUT SCHÄLIKE</strong>
 

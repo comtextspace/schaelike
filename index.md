@@ -183,3 +183,13 @@
 - [Легенда](отклик-шелике-легенда.md) (2011) [[files отклик-шелике-легенда]]
 - **Markus Kompa.** [Kinder des Hotel Lux](schälike-kompa-kinder-des-hotel-lux.md) (2011) [[files schälike-kompa-kinder-des-hotel-lux]]
 - **Евгений Зингер.** [Из воспоминаний  Е. Зингера](отклик-шелике-из-воспоминаний-зингера.md) (2013) [[files отклик-шелике-из-воспоминаний-зингера]]
+
+## Тексты на немецком языке
+
+- [Am Anfang war…](schälike-am-anfang-war.md) (2007) [[files schälike-am-anfang-war]]
+- [Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie](schälike-die-menschlichen-verhältnisse-zur-welt.md) (2007) [[files schälike-die-menschlichen-verhältnisse-zur-welt]]
+- [FRAGEN UND ANTWORTEN: „LUX“, MARX, LIEBE u. a.](schälike-fragen-und-antworten-lux-marx-liebe.md) (2010) [[files schälike-fragen-und-antworten-lux-marx-liebe]]
+- [FÜR EINE MENSCHLICHE GESELLSCHAFT! DER MARXISMUS – IRRLICHT ODER GANZHEITLICHE THEORIE?](schälike-für-eine-menschliche-gesellschaft.md) (2007) [[files schälike-für-eine-menschliche-gesellschaft]]
+- [KANN UNS MARX HELFEN EINE MENSCHLICHE ALTERNATIVE ZUM GEGENWÄRTIGEN ZUSTAND DER WELT ZU FINDEN?](schälike-kann-uns-marx-helfen-eine-menschliche-alternative.md) (2008) [[files schälike-kann-uns-marx-helfen-eine-menschliche-alternative]]
+- [Schlussgedanken](schälike-schlussgedanken.md) (2007) [[files schälike-schlussgedanken]]
+- [Wie entstehen neue, menschliche Verhältnisse?](schälike-wie-entstehen-neue-menschliche-verhältnisse.md) (2007) [[files schälike-wie-entstehen-neue-menschliche-verhältnisse]]

@@ -1,6 +1,18 @@
-#TODO заголовок сделать в нижнем регистре
+---
+format: comtext
+version: 2.0.0
+title: "FÜR EINE MENSCHLICHE GESELLSCHAFT! DER MARXISMUS – IRRLICHT ODER GANZHEITLICHE THEORIE?"
+author:
+- Вальтраут Фрицевна Шелике
+---
 
 # FÜR EINE MENSCHLICHE GESELLSCHAFT! DER MARXISMUS – IRRLICHT ODER GANZHEITLICHE THEORIE?
+
+Шелике Вальтраут Фрицевна. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 14.12.2007.
+
+---
+
+#TODO заголовок сделать в нижнем регистре
 
 Dr. Waltraut Schälike (Moskau). Aus dem Russischen übersetzt und bearbeitet von Dr. Karl Harms und Frank Preiß.
 

@@ -1,6 +1,14 @@
+---
+format: comtext
+version: 2.0.0
+title: "Schlussgedanken"
+author:
+- Вальтраут Фрицевна Шелике
+---
+
 # Schlussgedanken
 
-Dr. Waltraut Schälike
+Шелике Вальтраут Фрицевна. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 27.11.2007.
 
 ---
 

@@ -1,6 +1,14 @@
+---
+format: comtext
+version: 2.0.0
+title: "Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie"
+author:
+- Вальтраут Фрицевна Шелике
+---
+
 # Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie
 
-Dr. Waltraut Schälike
+Шелике Вальтраут Фрицевна. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 27.11.2007.
 
 ---
 

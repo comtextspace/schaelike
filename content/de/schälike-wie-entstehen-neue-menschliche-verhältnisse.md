@@ -1,4 +1,16 @@
+---
+format: comtext
+version: 2.0.0
+title: "Wie entstehen neue, menschliche Verhältnisse?"
+author:
+- Вальтраут Фрицевна Шелике
+---
+
 # Wie entstehen neue, menschliche Verhältnisse?
+
+Шелике Вальтраут Фрицевна. Материал взят из резервной копии сайта [wtschaelike.ru](http://wtschaelike.ru). Дата последнего изменения 27.11.2007.
+
+---
 
 Dr. Waltraut Schälike
 
