@@ -186,7 +186,7 @@
 
 ## Тексты на немецком языке
 
-[Тексты не вычитаны и не оформлены, при желании помочь с оформлением текстов пишите на [defcon.social/@pensadoj](https://defcon.social/@pensadoj)].
+[Тексты не вычитаны и не оформлены, при желании помочь с оформлением текстов пишите в [defcon.social/@pensadoj](https://defcon.social/@pensadoj)].
 
 - [Am Anfang war…](schälike-am-anfang-war.md) (2007) [[files schälike-am-anfang-war]]
 - [Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie](schälike-die-menschlichen-verhältnisse-zur-welt.md) (2007) [[files schälike-die-menschlichen-verhältnisse-zur-welt]]

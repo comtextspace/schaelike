@@ -7,6 +7,13 @@ pages:
   - index.md
 
 books:
+  - content/de/schälike-am-anfang-war.md
+  - content/de/schälike-die-menschlichen-verhältnisse-zur-welt.md
+  - content/de/schälike-fragen-und-antworten-lux-marx-liebe.md
+  - content/de/schälike-für-eine-menschliche-gesellschaft.md
+  - content/de/schälike-kann-uns-marx-helfen-eine-menschliche-alternative.md
+  - content/de/schälike-schlussgedanken.md
+  - content/de/schälike-wie-entstehen-neue-menschliche-verhältnisse.md
   - content/secondary/козьмин-кто-был-первым-переводчиком-на-русский-язык-манифеста-коммунистической-партии.md
   - content/отклики/schälike-berger-kindheitsmuster-im-moskauer-exil.md
   - content/отклики/schälike-hederle-utopie-kreativ.md
