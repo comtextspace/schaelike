@@ -197,7 +197,7 @@
 - [Am Anfang war…](schälike-am-anfang-war.md) (2007) [[files schälike-am-anfang-war]]
 - [Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie](schälike-die-menschlichen-verhältnisse-zur-welt.md) (2007) [[files schälike-die-menschlichen-verhältnisse-zur-welt]]
 - [FRAGEN UND ANTWORTEN: „LUX“, MARX, LIEBE u. a.](schälike-fragen-und-antworten-lux-marx-liebe.md) (2010) [[files schälike-fragen-und-antworten-lux-marx-liebe]]
-- [FÜR EINE MENSCHLICHE GESELLSCHAFT! DER MARXISMUS – IRRLICHT ODER GANZHEITLICHE THEORIE?](schälike-für-eine-menschliche-gesellschaft.md) (2007) [[files schälike-für-eine-menschliche-gesellschaft]]
+- [FÜR EINE MENSCHLICHE GESELLSCHAFT! DER MARXISMUS – IRRLICHT ODER GANZHEITLICHE THEORIE?](schälike-für-eine-menschliche-gesellschaft.md) (2007) [[files schälike-für-eine-menschliche-gesellschaft]] [PDF](https://mega.nz/file/0PUByZRL#ZxjiIMSwdtG-uvt7-pzShnEPkXotEQM-DV0Wa3QpHHI){.file-link}
 - [KANN UNS MARX HELFEN EINE MENSCHLICHE ALTERNATIVE ZUM GEGENWÄRTIGEN ZUSTAND DER WELT ZU FINDEN?](schälike-kann-uns-marx-helfen-eine-menschliche-alternative.md) (2008) [[files schälike-kann-uns-marx-helfen-eine-menschliche-alternative]]
 - [Schlussgedanken](schälike-schlussgedanken.md) (2007) [[files schälike-schlussgedanken]]
 - [Wie entstehen neue, menschliche Verhältnisse?](schälike-wie-entstehen-neue-menschliche-verhältnisse.md) (2007) [[files schälike-wie-entstehen-neue-menschliche-verhältnisse]]
