@@ -5,6 +5,7 @@
 - [Waltraut Fritzewna Schälike](https://de.wikipedia.org/wiki/Waltraut_Schälike) (de.wikipedia.org)
 - [wtschaelike.ru](https://web.archive.org/web/20230331000242/http://www.wtschaelike.ru/) (web.archive.org)
 - [Биография](шелике-биография.md) (2015) [[files шелике-биография]]
+- [Парадоксы моей биографии](шелике-парадоксы-моей-биографии.md) [[files шелике-парадоксы-моей-биографии]]
 - [О чём речь?](шелике-о-чём-речь.md) (2007) [[files шелике-о-чём-речь]]
 
 [[TOC]]
