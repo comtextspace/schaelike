@@ -216,3 +216,12 @@
 - [Schlussgedanken](schälike-schlussgedanken.md) (2007) [[files schälike-schlussgedanken]]
 - [Wie entstehen neue, menschliche Verhältnisse?](schälike-wie-entstehen-neue-menschliche-verhältnisse.md) (2007) [[files schälike-wie-entstehen-neue-menschliche-verhältnisse]]
 - Ich wollte keine Deutsche sein (2006) [PDF](https://mega.nz/file/ZeEWQYCL#H4mPFNrsPtIFgYYNNQilso2-CtXYL7_XH1AHliM9rg4){.file-link}
+
+## Книги с пометками В. Ф. Шелике
+
+
+* Marx-Engels Archiv. Band II. [PDF](https://mega.nz/file/1W1GABRb#uch5ElqKYPXxxVVs410Eb1TnbNSnDKLaQDPyjX4j6u8){.file-link}
+* Marx-Engels Gesamtausgabe. Erste Abteilung. Band 3. [PDF](https://mega.nz/file/wXUU2SrZ#R_tlj1eiSnRv40dsNDfg3ShwUiuLrmj3f43F8i1ABL8){.file-link}
+* Marx-Engels Gesamtausgabe. Erste Abteilung. Band 5. [PDF](https://mega.nz/file/kO1hAKaY#nVkZVhhs1qHOScFVD1p0MRhigXa73q2zD3DcxEYRQCY){.file-link}
+* Marx-Engels Gesamtausgabe. Erste Abteilung. Band 6. [PDF](https://mega.nz/file/hPlBCC5Z#r1aDDszvBVfvNOXOl9QJe3gh4nibSYz2pKkjZYF3bfM){.file-link}
+* Marx-Engels Gesamtausgabe. Dritte Abteilung. Band 3. [PDF](https://mega.nz/file/ZWcVUJrC#V8yzqoS4KcC6zdgbFPJMnjHRuGeylvXuIlxM7_keeQM){.file-link}
