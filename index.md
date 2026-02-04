@@ -145,6 +145,7 @@
 - [Отрывки из наших сценариев](шелике-отрывки-из-наших-сценариев.md) [[files шелике-отрывки-из-наших-сценариев]]
 - [Молчание — знак соглашательства?](шелике-молчание-знак-соглашательства.md) (1986) [[files шелике-молчание-знак-соглашательства]] [PDF](https://mega.nz/file/8bUnUIhR#tZmft1k7ivheiw7TtoLNE8MrCXIf82_gi937ROoksus){.file-link}
 - [Наш юный друг](шелике-наш-юный-друг.md) (1970) [[files шелике-наш-юный-друг]] [PDF](https://mega.nz/file/hSd3jAxB#0t6FxMA7etZbmCT-U8Ckp4cW7qg5bkwtqQ7VtQdqHzI){.file-link}
+- [По дорогам войны и мира](шелике-по-дорогам-войны-и-мира.md) (1988) [[files шелике-по-дорогам-войны-и-мира]] [PDF1](https://mega.nz/file/ID9GGYyB#ZgLyV4LAMdu06LKPAYYhhKZ0qrtJXv8koocV-nwCaHc){.file-link} [PDF2](https://mega.nz/file/JOU2hJLR#1lpXS41qKYVogT37QWlD5CGBFRNvhrw1ne76CGyjJsE){.file-link}
 
 ## Сборники Академии Общественных Наук при ЦК КПСС
 
