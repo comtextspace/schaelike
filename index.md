@@ -4,10 +4,22 @@
 - [Waltraut "Travka" Fritzevna Schälike](https://en.wikipedia.org/wiki/Waltraut_Schälike) (en.wikipedia.org)
 - [Waltraut Fritzewna Schälike](https://de.wikipedia.org/wiki/Waltraut_Schälike) (de.wikipedia.org)
 - [wtschaelike.ru](https://web.archive.org/web/20230331000242/http://www.wtschaelike.ru/) (web.archive.org)
-- Сайт [Вальтраут Шелике. Моя жизнь... вопреки](https://trautchen.narod.ru/index.htm)
+- [Вальтраут Шелике. Моя жизнь... вопреки](https://trautchen.narod.ru/index.htm)
 - [Биография](шелике-биография.md) (2015) [[files шелике-биография]]
 - [Парадоксы моей биографии](шелике-парадоксы-моей-биографии.md) [[files шелике-парадоксы-моей-биографии]]
 - [О чём речь?](шелике-о-чём-речь.md) (2007) [[files шелике-о-чём-речь]]
+
+Архив составлен на основе двух файловых хранилищ:  
+[первый архив](https://disk.yandex.ru/d/7lOTEPAA2mZFJQ), [второй архив](https://disk.yandex.ru/d/c1M-xSlbNQ1hvQ). Дополнительно часть материалов получена из резервной копии базы данных сайта wtschaelike.ru.
+
+Исходные файлы всех текстов доступны в [репозитории на GitHub](https://github.com/comtextspace/schaelike/).
+
+Тексты содержат опечатки, возникшие при оцифровке. Некоторые материалы представлены в виде PDF без распознанного текста, а в отдельных случаях отсутствует оцифровка примечаний. Приглашаем всех желающих помочь с исправлением неточностей и дополнением архива.
+
+Контакты:
+
+* [SimpleX Chat](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2FpdvsJTe4h1AKQA6_Y64R72s4z4SvyCeJ%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEALOvMw7q5w0phNRisR4TGCdINPcGQmMuE8ZELnbqriTM%253D%26q%3Dc%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion)
+* [Обновления и новости](https://defcon.social/@pensadoj)
 
 [[TOC]]
 
