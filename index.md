@@ -35,7 +35,6 @@
 - Лекция [«Любовь Карла Маркса и Женни Маркс»](https://www.youtube.com/watch?v=qYlittlpFM0) (05.05.2018)
 - Лекция [«О Ноябрьской революции в Германии»](https://www.youtube.com/watch?v=G3-SyeK91bQ) (09.11.2018)
 
-
 ## Конференция «Ильенковские чтения»
 
 - [Начало материалистической теории истории у Маркса](шелике-начало-материалистической-теории-истории-у-маркса.md) (2009) [[files шелике-начало-материалистической-теории-истории-у-маркса]]
@@ -229,7 +228,7 @@
 
 ## Тексты на немецком языке
 
-[Тексты не вычитаны и не оформлены, при желании помочь с оформлением текстов пишите в [defcon.social/@pensadoj](https://defcon.social/@pensadoj)].
+Тексты не вычитаны и не оформлены.
 
 - [Am Anfang war…](schälike-am-anfang-war.md) (2007) [[files schälike-am-anfang-war]]
 - [Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie](schälike-die-menschlichen-verhältnisse-zur-welt.md) (2007) [[files schälike-die-menschlichen-verhältnisse-zur-welt]]
