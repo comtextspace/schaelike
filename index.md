@@ -9,7 +9,7 @@
 - [Парадоксы моей биографии](шелике-парадоксы-моей-биографии.md) [[files шелике-парадоксы-моей-биографии]]
 - [О чём речь?](шелике-о-чём-речь.md) (2007) [[files шелике-о-чём-речь]]
 
-Архив составлен на основе двух файловых хранилищ: [первый архив](https://disk.yandex.ru/d/7lOTEPAA2mZFJQ), [второй архив](https://disk.yandex.ru/d/c1M-xSlbNQ1hvQ). Дополнительно часть материалов получена из резервной копии базы данных сайта wtschaelike.ru.
+Архив составлен на основе двух файловых хранилищ: [первый архив](https://disk.yandex.ru/d/7lOTEPAA2mZFJQ), [второй архив](https://disk.yandex.ru/d/c1M-xSlbNQ1hvQ). Часть файлов и резервная копия базы данных сайта wtschaelike.ru находится [в отдельном архиве](https://mega.nz/file/QSUxyJqB#5kE2xXoSzIP0SGc9Bnl0XuOZqQOWK5xdG5kn9I3vY30).
 
 Исходные файлы всех текстов доступны в [репозитории на GitHub](https://github.com/comtextspace/schaelike/).
 
