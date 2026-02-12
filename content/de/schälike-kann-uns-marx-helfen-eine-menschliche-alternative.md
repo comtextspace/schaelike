@@ -174,11 +174,7 @@ Ergänzend sei gesagt, dass das Erzeugen neuer Bedürfnisse auch Quellen für di
 
 Die dritte Seite der sozialen Tätigkeit besteht in der Erzeugung der Menschen durch Menschen sowie der Verhältnisse zwischen den Menschen. Die Widersprüche stechen hier förmlich ins Auge. Die Menschen (nicht alle!) zeugen Menschen im Prozess des Kinderkriegens. Aber wie viele demografische Probleme stürmen heute auf die Menschheit ein, wie viele persönliche Tragödien verstecken sich hinter diesem Weltproblem. Hier eröffnen sich unerschlossene, alternative Tätigkeitsfelder für die Vermenschlichung der Beziehungen zwischen Mann und Frau, zwischen Eltern und Kindern, der jüngeren Generation zur älteren usw. Natürlich wird auf diesem Gebiet heute schon eine beachtliche Arbeit geleistet.
 
-<p align="right"> <a href="http://www.wtschaelike.ru/?p=77">weiter &gt;&gt;</a></p>
-
 ## Часть 2
-
-<a href="http://www.wtschaelike.ru/?page_id=63">&lt;&lt; zum Anfang</a>
 
 Fortsetzung...
 
@@ -188,7 +184,7 @@ All das muss erkannt, untersucht, ja zahlenmäßig erfasst werden, um es allseit
 Vielleicht ist es auch schon so, daß wir schon längst in die Epoche sozialer Revolutionen eingetreten sind, ohne uns dessen bewußt zu sein? Denn unser Bewußtsein ist noch immer an die Stereotype vergangener Revolutionen des XVII. — XIX., sowie des XX. Jahrhunderts gebunden.
 In Wirklichkeit waren alle vergangenen Revolutionen nur Teilrevolutionen. Sie waren nicht in der Lage die jahrhundertalte Entmenschlichung, hervorgerufen durch die Widersprüche zwischen Mensch und Natur und zwischen den Menschen in ihrem sozialen Lebensprozess, zu überwinden. Aber gerade diese Widersprüche wollen viele Menschen in unserer modernen Welt überwinden, und sie überwinden sie auf ihrem persönlichem, individuellem Lebensniveau. Die weltumspannenden sozialen Kongresse versuchen diese wirklichen Individuen, die zu den unterschiedlichsten sozialen Schichten der Gesellschaft gehören, zu vereinen. Es sei daran erinnert: Friedrich Engels war sein Leben lang ein Kapitalist!
 
-<strong>Soziale und gesellschaftliche Verhältnisse </strong>
+**Soziale und gesellschaftliche Verhältnisse**
 
 Nachdem Marx und Engels in der „Deutschen Ideologie“ die drei Seiten der Ausgangsdefinition der sozialen Tätigkeit herausgearbeitet hatten, vermerkten sie, daß auf dieser (dreiseitigen!) Grundlage eine vierte Beziehung durch das Zusammenwirken wirklicher Individuen entsteht, eine Menschengemeinschaft, d. h. die Gesellschaft.
 Ich unterstreiche an dieser Stelle, daß die sozialen Verhältnisse und die gesellschaftlichen Verhältnisse ebenso wie die Sozialarbeit und die gesellschaftliche Tätigkeit ihrem Wesen nach nicht ein und dasselbe sind.

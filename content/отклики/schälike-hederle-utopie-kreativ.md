@@ -153,7 +153,6 @@ Umgebung« beschaffen war (S. 166). Die
 ganze Zeit über gingen Briefe zwischen der
 Tochter und den Eltern hin und her. Waltraut
 
-
 1144 Bücher. Zeitschriften
 war für die Brüder verantwortlich, die in
 einem 7 Kilometer entfernten Heim untergebracht

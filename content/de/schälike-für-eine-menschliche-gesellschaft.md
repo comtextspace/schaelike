@@ -64,11 +64,10 @@ Was diente für Marx und Engels als Ausgangspunkt ihrer Theorie? Gelang es Ihnen
 
 Findet man in den Arbeiten von 1844-46 überhaupt eine Antwort darauf?
 
-
 http://www.wtschaelike.ru/?page_id=58
 Zurück
 
-<strong>Am Anfang war…</strong>
+**Am Anfang war…**
 
 Zunächst ist es notwendig, den Gegenstand der Theorie exakt zu bestimmen. Denn jede Wissen-schaft, die bestimmte Aspekte des menschlichen Lebens und der Welt erforscht, hat ihren spezifischen Untersuchungsgegenstand, der sich von den Objekten anderer Wissenschaften unterscheidet. Für die Sozialpsychologie sind andere Objekte von Interesse als für die Psychoanalyse. Die Politwis-senschaften untersuchen andere Prozesse als die Kulturwissenschaften, was freilich nicht bedeutet, dass es zwischen ihnen keine "Querverbindung" "Überlappungen" oder "Teilmengen" gäbe.
 Die Untersuchungsgegenstände der einzelnen Geisteswissenschaften sind die Entäusserungen nur eines Teils der riesigen Vielfalt des Verhältnisses Mensch-Welt. Deshalb hielt es Marx für erforder-lich, im Vorwort zu seiner Arbeit über die Kapitalismustheorie im "Kapital" den Untersuchungsge-genstand exakt zu definieren. "Was ich in diesem Werk zu erforschen habe, ist die kapitalistische Produktionsweise und die ihr entsprechenden Produktions- und Verkehrsverhältnisse." (Karl Marx. Friedrich Engels. Werke. Dietz Verlag. Berlin. 1958, Bd. 23. S.12,
@@ -156,7 +155,7 @@ Weiter
 http://www.wtschaelike.ru/?page_id=58
 Zurück
 
-<strong>Am Anfang war…</strong>
+**Am Anfang war…**
 
 Zunächst ist es notwendig, den Gegenstand der Theorie exakt zu bestimmen. Denn jede Wissen-schaft, die bestimmte Aspekte des menschlichen Lebens und der Welt erforscht, hat ihren spezifischen Untersuchungsgegenstand, der sich von den Objekten anderer Wissenschaften unterscheidet. Für die Sozialpsychologie sind andere Objekte von Interesse als für die Psychoanalyse. Die Politwis-senschaften untersuchen andere Prozesse als die Kulturwissenschaften, was freilich nicht bedeutet, dass es zwischen ihnen keine "Querverbindung" "Überlappungen" oder "Teilmengen" gäbe.
 Die Untersuchungsgegenstände der einzelnen Geisteswissenschaften sind die Entäusserungen nur eines Teils der riesigen Vielfalt des Verhältnisses Mensch-Welt. Deshalb hielt es Marx für erforder-lich, im Vorwort zu seiner Arbeit über die Kapitalismustheorie im "Kapital" den Untersuchungsge-genstand exakt zu definieren. "Was ich in diesem Werk zu erforschen habe, ist die kapitalistische Produktionsweise und die ihr entsprechenden Produktions- und Verkehrsverhältnisse." (Karl Marx. Friedrich Engels. Werke. Dietz Verlag. Berlin. 1958, Bd. 23. S.12,
@@ -244,7 +243,7 @@ Weiter
 http://www.wtschaelike.ru/?p=66
 Zurück
 
-<strong>Die menschlichen Verhältnisse zur Welt — der Ausgangspunkt der marxistischen Geschichtstheorie</strong>
+**Die menschlichen Verhältnisse zur Welt — der Ausgangspunkt der marxistischen Geschichtstheorie**
 
 Nach dem oben Gesagten geht es jetzt darum, in den Arbeiten von Marx und Engels den Ausgangspunkt der materialistischen Geschichtstheorie zu finden
 
@@ -370,10 +369,9 @@ Weiter
 http://www.wtschaelike.ru/?p=67
 Zurück
 
+**Wie entstehen neue, menschliche Verhältnisse? **
 
-<strong>Wie entstehen neue, menschliche Verhältnisse? </strong>
-
-<strong>Wesentliche Seiten menschlicher Tätigkeiten</strong>
+**Wesentliche Seiten menschlicher Tätigkeiten**
 
 Marx und Engels definierten die Verhältnisse der Menschen zur Natur als "Bearbeitung der Natur durch Menschen" und die andere Seite der menschlichen Verhältnisse zur Welt als "die Bearbeitung der Menschen durch Menschen" ( Karl Marx. Friedrich Engels. Werke. Dietz Verlag.Berlin. 1958. B.3.S.36)
 
@@ -393,7 +391,7 @@ Es wird aufgezeigt, wie sich der ganzheitliche Mensch in einen "Teilmenschen" ve
 
 Die menschlichen Verhältnisse zur Welt drücken, in abstraktester Form, die allgemeinen Gesetz-mässigkeiten aller menschlichen Verhaltungsweisen aus.
 
-<strong>Die Wirklichkeit</strong>
+**Die Wirklichkeit**
 
 Diese allgemeinen Gesetzmässigkeiten erklären jedoch nicht die Besonderheiten ihrer Erscheinung in der historischen Wirklichkeit.
 Deshalb ist es erforderlich, von den allgemeinen Definitionen der menschlichen Verhältnisse zur Welt zu den allgemeinen Begriffsbestimmungen hinsichtlich der historischen Wirklichkeit zu kom-men. Dies haben Karl Marx und Friedrich Engels beim Übergang zu einer neuen Kategorienreihe vollzogen.
@@ -418,7 +416,7 @@ Sie werden im Prozess der Tätigkeit des Bewusstseins der Individuen zu Begriffe
 Die genannten drei Grundvoraussetzungen der historischen Wirklichkeit sind wie grundlegende ganzheitliche "Zellen""oder "Keime" der sich aus ihnen entwickelnden Wirklichkeit und der Defini-tion der Begriffe der Erkennungstheorie dieser Wirklichkeit.
 Mit anderen Worten: Diese dreiseitige "Zelle" enthält in sich gewissermassen den genetischen Code, der in jedem wichtigem Begriff enthalten ist und bleibt. Bei der Begriffsdefinition wird das in ihm angelegte Programm umgesetzt. Somit wird auf dem jeweiligen Analyseniveau die dazugehörige spezifische Definition ganzheitlich erarbeitet.
 
-<strong>Produktivkräfte, Kommunistische Revolution und soziale Tätigkeit</strong>
+**Produktivkräfte, Kommunistische Revolution und soziale Tätigkeit**
 
 Auf der Grundlage der Dreieinigkeit des Ausgangsveraeltnisses der Wirklichkeit erarbeiteten Marx und Engels z.B. die Ausgangsdefinition der Produktivkräfte. ( Siehe: Шелике В.Ф. Определение К.Марксом и Ф.Энгельсом производителüных сил в работе "Немецкая идеология". - Сборник научных трудов "К.Маркс и Ф.Энгельс о вопросах социальной диалектики." -Фрунзе. 1983.С.31-39)
 
@@ -464,7 +462,7 @@ Alle dem Kommunismus vorangegangenen sozialen Revolutionen waren jedoch nur Teil
 
 Im Unterschied zu den sozialen Revolutionen der Vergangenheit ist die kommunistische Revolution umfassend, ganzheitlich. Sie verwirklicht den Übergang der Menschheit zu einem wirklich sozialen Leben. Die kommunistische Revolution kann nicht einen einmaligen revolutionären Akt erfolgen und nicht in den Grenzen nur eines Landes siegreich sein. Sie ist eine Weltbewegung. Die Kommu-nistische Revolution umfasst eine ganze Epoche, die inhaltlich unterschiedliche Revolutionen bein-haltet. In ihrem vielschichtigen Verlauf loesen die Menschen die globalen Probleme ihrer ent-menschten Verhaeltnisse und die Entmenschlichung des Lebens wird weltweit beseitigt. ( Siehe: Шелике В.Ф. К.Маркс и Ф. Энгельс об источниках социальной революции (по работам 1844-46ггю). "Проблемы теории революции и истории революционной мысли". Ученые записки Тартуского государственного университета. Труды по философии. Такту. 1986. С.9-19)
 
-<strong>Produktion, Verkehr und Gesellschaft.</strong>
+**Produktion, Verkehr und Gesellschaft.**
 
 Die ursprünglichen und grundlegenden Seiten menschlicher sozialer Tätigkeit erhalten schliesslich eine neue, weitaus konkretere Definition mittels der Kategorientriade: Produktion, Verkehr, Ge-sellschaft. Diese Begriffsreihe vereint den gesamten Reichtum vorhergehender Definitionen menschlicher Verhältnisse zur Welt und dringt in die Tiefe des Wesens dieser ein.
 
@@ -526,7 +524,7 @@ Die ganze Kompliziertheit der heutigen Weltlage besteht darin, dass wir uns an e
 
 Unsere Aufgabe besteht darin, diese menschlichen Verhältnisse in unserer verkehrten Welt zu erken-nen und entsprechend unseren Möglichkeiten zu befördern. Marx und Engels können und konnten uns keine Lösungen für unsere heutigen Probleme als Nachlass hinterlassen. Aber die Methodologie des komplexen Herangehens an die unaufschiebbaren globalen Probleme der Menschheit haben sie uns in die Hand gegeben. Damit haben wir die Möglichkeit, die in der Welt vor sich gehenden Pro-zesse zu analysieren, die Welt in ihrer Ganzheitlichkeit und Vielfältigkeit zu erfassen. Wir sind da-mit in der Lage, den Reichtum der menschlichen Verhältnisse zur Welt und der Welt zum Menschen zu erkennen und auf Grund dieser Erkenntnisse zu handeln. Das ist das Erbe, welches uns die beiden grossen Denker hinterliessen.
 
-<strong>Schlussgedanken</strong>
+**Schlussgedanken**
 
 In ihrer praktischen revolutionären Tätigkeit stützten sich Marx und Engels auf ihre materialistische Geschichtstheorie, die sie aus den konkreten historischen Bedingungen des 19. Jahrhunderts ableite-ten.
 Sie wurden nicht müde zu betonen, dass ihre Schlussfolgerungen über die Art und Weise einer revo-lutionären Umgestaltung der menschlichen Verhältnisse zur Welt auf der Analyse der Gesamtheit der Widersprüche ihrer Zeit begründet war.

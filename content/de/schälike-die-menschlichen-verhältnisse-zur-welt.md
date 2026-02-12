@@ -29,7 +29,7 @@ Diese „Verhältnisse“ sind derart aktuell, wie es noch nie in der Geschichte
 Folglich kann man davon ausgehen, dass die menschlichen Verhältnisse zur Welt den Gesamtgegenstand der Forschung, also die Geschichte der Menschheit, auf dem abstraktesten Niveau in seiner Komplexität erfassen.
 Somit ist die Forderung an den methodologischen Ausgangspunkt der Theorie erfüllt, die den Anspruch auf Ganzheitlichkeit erhebt.
 
-<strong>Die Ausgangsdefinition „Welt“</strong>
+**Die Ausgangsdefinition „Welt“**
 
 Das weitere Definieren der menschlichen Verhältnisse zur Welt vollzieht sich vermittels des „Findens“ zweier allgemeiner Seiten der Welt, was zunächst durch eine Zweiteilung der Welt geschieht. In dieser Zergliederung stellt sich die Welt als die natürliche Welt und als die Menschenwelt dar. (1)
 Somit ist dann die eine Seite menschlicher Verhältnisse zur Welt das Verhalten der Menschen zur Natur, die andere Seite ist das Verhalten der Menschen zu Menschen. (2)
@@ -54,7 +54,7 @@ Es gab bisher nirgends Kommunismus auf dieser Welt und heute wird es immer augen
 
 Die Revolutionen des 20. Jahrhunderts haben die globalen Probleme der Menschheit nicht entwirrt. Sie harren nach wie vor ihrer „Befreiung“, auch wenn man heute in der herrschenden Ideologie und im Massenbewusstsein die Notwendigkeit des Überganges zu einer neuen Entwicklungsstufe der Geschichte der Menschheit nicht als Bewegung zum Kommunismus bezeichnet.
 
-<strong>Die Ausgangsdefinition „Mensch“</strong>
+**Die Ausgangsdefinition „Mensch“**
 
 Die Welt ist gespalten und voll von Wiedersprüchen. Vielfältig gespalten ist auch der Mensch. Marx und Engels betrachteten beim Menschen, wie auch bei der Welt, zwei allgemeine Ausgangsseiten.
 
@@ -79,7 +79,7 @@ Der Einzelne tritt als Subjekt menschlicher Verhältnisse zur Welt in Erscheinun
 Die Wechselwirkung zwischen dem Individuum und der Gesellschaft, die eine gegenseitige Stimulierung ergeben sollte, war im mutierten Sozialismus faktisch auf den Kopf gestellt. Es wurde das Primat der gesellschaftlichen Interessen vor den individuellen postuliert. Die Gesellschaft (in Gestalt des Staates) stand über dem Individuum. Ein solches Verhältnis ist — nach Marx und Engels — eben nur für die Periode der „Zivilisation“ (Sklavenhaltergesellschaft, Feudalismus und Kapitalismus) charakteristisch und widerspricht dem Kommunismus.
 Der Kommunismus setzt eine harmonische Entwicklung des Individuums (eines jeden) und der Gesellschaft (aller) voraus. Das heißt, er baut sich auf solchen menschlichen sozialen Verhältnissen auf, bei denen die freie Entwicklung eines jeden die Bedingung für die freie Entwicklung aller ist. Eine solche Wechselwirkung gab es im mutierten Sozialismus nicht, und von einer kommunistischen Gesellschaft kann somit wieder keinesfalls die Rede sein.
 
-<strong>Die ideellen und materiellen Verhältnisse der Menschen zur Welt</strong>
+**Die ideellen und materiellen Verhältnisse der Menschen zur Welt**
 
 Wie oben bereits gesagt, unterscheiden sich die menschlichen Verhältnisse zur Welt, nach Marx und Engels, von denen der Tiere dadurch, dass der Mensch die Existenz dieser Verhältnisse begreift, während das Tier in dieser Hinsicht „bewusstlos“ ist.
 Die Vorstellungen der Menschen von der Welt, ihre Ideen, Theorien über diese, schöpfen die Menschen, wie Marx und Engels bemerkten, aus ihren eigenen Verhältnissen zu ihr. Im Bewusstsein der Menschen, welches in der Gesellschaft die Form von Moral, Recht, Religion, Politik usw. annimmt, „transformieren“ sie
@@ -139,6 +139,7 @@ Eben dieses Rätsel der Geschichte versuchten Marx und Engels zu lösen, indem s
 So entstand die Frage nach dem allgemeinen Mechanismus menschlichen Verhaltens. Wie verändert die Menschheit die Welt — die Welt der Natur und die Welt des Menschen?
 
 ---
+
 1. K.Marx, F.Engels: Werke. Dietz Verlag. Berlin 1958. Bd.3. S.44.
 2. K.Marx, F.Engels: „Kleine ökonomische Schriften“. Sammelband. Bücherei des Marxismus-Leninismus. Dietz Verlag. Berlin 1955. Bd.42. S.165-166.
 3. K.Marx, F.Engels: Werke. Dietz Verlag. Berlin 1958. Bd.3. S.38.
