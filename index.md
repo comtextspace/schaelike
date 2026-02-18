@@ -18,7 +18,7 @@
 Контакты:
 
 * [SimpleX Chat](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2FpdvsJTe4h1AKQA6_Y64R72s4z4SvyCeJ%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEALOvMw7q5w0phNRisR4TGCdINPcGQmMuE8ZELnbqriTM%253D%26q%3Dc%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion)
-* [Обновления и новости](https://defcon.social/@pensadoj)
+* [Mastodon](https://defcon.social/@pensadoj)
 
 ## Оглавление
 
