@@ -4,6 +4,10 @@ version: 2.0.0
 title: "Знаете ли вы что такое «Verkehr»?"
 author:
 - Вальтраут Фрицевна Шелике
+genre:
+- sci_history
+- sci_philosophy
+date: 2016
 ---
 
 # Знаете ли вы что такое «Verkehr»?

@@ -4,6 +4,10 @@ version: 2.0.0
 title: "Заметки о статье «Alles Einbildung»"
 author:
 - Вальтраут Фрицевна Шелике
+genre:
+- sci_history
+- sci_philosophy
+date: 2006
 ---
 
 # Заметки о статье «Alles Einbildung»
