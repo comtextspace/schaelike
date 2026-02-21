@@ -8,6 +8,7 @@ genre:
 - sci_history
 - sci_philosophy
 date: 2006
+lang: ru
 ---
 
 # Заметки о статье «Alles Einbildung»
