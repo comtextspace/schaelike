@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Архив Вальтраут Фрицевны Шелике</title>
+  <entry>
+    <title>Am Anfang war…</title>
+    <updated>2026-07-21T12:53:08.603Z</updated>
+    <link href="files/schalike-am-anfang-war.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Die menschlichen Verhältnisse zur Welt – der Ausgangspunkt der marxistischen Geschichtstheorie</title>
+    <updated>2026-07-21T12:53:08.969Z</updated>
+    <link href="files/schalike-die-menschlichen-verhaltnisse-zur-welt.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>FRAGEN UND ANTWORTEN: „LUX“, MARX, LIEBE u. a.</title>
+    <updated>2026-07-21T12:53:09.648Z</updated>
+    <link href="files/schalike-fragen-und-antworten-lux-marx-liebe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>FÜR EINE MENSCHLICHE GESELLSCHAFT! DER MARXISMUS – IRRLICHT ODER GANZHEITLICHE THEORIE?</title>
+    <updated>2026-07-21T12:53:10.423Z</updated>
+    <link href="files/schalike-fur-eine-menschliche-gesellschaft.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>KANN UNS MARX HELFEN EINE MENSCHLICHE ALTERNATIVE ZUM GEGENWÄRTIGEN ZUSTAND DER WELT ZU FINDEN?</title>
+    <updated>2026-07-21T12:53:10.852Z</updated>
+    <link href="files/schalike-kann-uns-marx-helfen-eine-menschliche-alternative.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Schlussgedanken</title>
+    <updated>2026-07-21T12:53:11.030Z</updated>
+    <link href="files/schalike-schlussgedanken.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wie entstehen neue, menschliche Verhältnisse?</title>
+    <updated>2026-07-21T12:53:11.372Z</updated>
+    <link href="files/schalike-wie-entstehen-neue-menschliche-verhaltnisse.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Кто был первым переводчиком на русский язык «Манифеста коммунистической партии»</title>
+    <updated>2026-07-21T12:53:11.580Z</updated>
+    <link href="files/kozmin-kto-byl-pervym-perevodchikom-na-russkiy-yazyk-manifesta-kommunisticheskoy-partii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Б. П. Козьмин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>«Манифест коммунистической партии» в русских переводах</title>
+    <updated>2026-07-21T12:53:12.300Z</updated>
+    <link href="files/preys-manifest-kommunisticheskoy-partii-v-russkih-perevodah.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>И. И. Прейс</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Kindheitsmuster im Moskauer Exil</title>
+    <updated>2026-07-21T12:53:12.489Z</updated>
+    <link href="files/schalike-berger-kindheitsmuster-im-moskauer-exil.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Christel Berger</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Utopie kreativ</title>
+    <updated>2026-07-21T12:53:12.713Z</updated>
+    <link href="files/schalike-hederle-utopie-kreativ.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Wladislaw Hederle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Kinder des Hotel Lux</title>
+    <updated>2026-07-21T12:53:12.942Z</updated>
+    <link href="files/schalike-kompa-kinder-des-hotel-lux.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Markus Kompa</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Еще одна оценка</title>
+    <updated>2026-07-21T12:53:13.117Z</updated>
+    <link href="files/otklik-shelike-eshche-odna-ocenka.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Из воспоминаний  Е. Зингера</title>
+    <updated>2026-07-21T12:53:13.451Z</updated>
+    <link href="files/otklik-shelike-iz-vospominaniy-zingera.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Легенда</title>
+    <updated>2026-07-21T12:53:13.667Z</updated>
+    <link href="files/otklik-shelike-legenda.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Наглая попытка пропихнуть Гегеля</title>
+    <updated>2026-07-21T12:53:13.876Z</updated>
+    <link href="files/otklik-shelike-naglaya-popytka-propihnut-gegelya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>«Немецкая тетка» и «шеликист»</title>
+    <updated>2026-07-21T12:53:14.169Z</updated>
+    <link href="files/otklik-shelike-nemeckaya-tetka-i-shelikist.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Отклик на новеллу «Берлинские каникулы»</title>
+    <updated>2026-07-21T12:53:14.367Z</updated>
+    <link href="files/otklik-shelike-otzyv-na-novellu-berlinskie-kanikuly.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Отклики на новеллу «Война»</title>
+    <updated>2026-07-21T12:53:14.579Z</updated>
+    <link href="files/otklik-shelike-otzyvy-na-novellu-voyna.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Поддержка, пришедшая из сайта Пуденко Сергей</title>
+    <updated>2026-07-21T12:53:14.837Z</updated>
+    <link href="files/otklik-shelike-podderzhka-prishedshaya-iz-sayta-pudenko-sergey.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Спасибо, Лара!</title>
+    <updated>2026-07-21T12:53:14.980Z</updated>
+    <link href="files/otklik-shelike-spasibo-lara.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Маркс, Ф. Энгельс, В. И. Ленин о социальных противоречиях и развитие социализма</title>
+    <updated>2026-07-21T12:53:16.760Z</updated>
+    <link href="files/sbornik-marks-engels-lenin-o-socialnyh-protivorechiyah-i-razvitie-socializma.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Методологические вопросы материалистического понимания истории в трудах К. Маркса и Ф. Энгельса</title>
+    <updated>2026-07-21T12:53:18.541Z</updated>
+    <link href="files/sbornik-metodologicheskie-voprosy-materialisticheskogo-ponimaniya-istorii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Понимание и общение в учебно-воспитательном процессе</title>
+    <updated>2026-07-21T12:53:18.805Z</updated>
+    <link href="files/sbornik-ponimanie-i-obshchenie-v-uchebno-vospitatelnom-processe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>40 лет в Киргизии</title>
+    <updated>2026-07-21T12:53:19.828Z</updated>
+    <link href="files/shelike-40-let-v-kirgizii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Берлинские каникулы</title>
+    <updated>2026-07-21T12:53:21.027Z</updated>
+    <link href="files/shelike-berlinskie-kanikuly.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Детство в Брице и гостинице «Люкс»</title>
+    <updated>2026-07-21T12:53:22.171Z</updated>
+    <link href="files/shelike-detstvo-v-brice-i-gostinice-lyuks.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Молчание — знак соглашательства?</title>
+    <updated>2026-07-21T12:53:22.619Z</updated>
+    <link href="files/shelike-molchanie-znak-soglashatelstva.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Моя война (Москва 1941-1945)</title>
+    <updated>2026-07-21T12:53:23.162Z</updated>
+    <link href="files/shelike-moya-voyna.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Отрывки из наших сценариев</title>
+    <updated>2026-07-21T12:53:23.482Z</updated>
+    <link href="files/shelike-otryvki-iz-nashih-scenariev.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>По дорогам войны и мира</title>
+    <updated>2026-07-21T12:53:23.736Z</updated>
+    <link href="files/shelike-po-dorogam-voyny-i-mira.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Предательство (Москва 1946-1949)</title>
+    <updated>2026-07-21T12:53:25.057Z</updated>
+    <link href="files/shelike-predatelstvo.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Родина (Фрунзе 1985-1988)</title>
+    <updated>2026-07-21T12:53:27.643Z</updated>
+    <link href="files/shelike-rodina.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Шестой класс (Отрочество. 1940)</title>
+    <updated>2026-07-21T12:53:30.036Z</updated>
+    <link href="files/shelike-shestoy-klass-otrochestvo-1940.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А что такое производство?</title>
+    <updated>2026-07-21T12:53:30.268Z</updated>
+    <link href="files/shelike-a-chto-takoe-proizvodstvo.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Актуальные проблемы понятийного аппарата теории социальной революции</title>
+    <updated>2026-07-21T12:53:30.750Z</updated>
+    <link href="files/shelike-aktualnye-problemy-ponyatiynogo-apparata-teorii-socialnoy-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Биография</title>
+    <updated>2026-07-21T12:53:31.000Z</updated>
+    <link href="files/shelike-biografiya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Весь мир насилья мы разрушим до основанья, а затем…</title>
+    <updated>2026-07-21T12:53:31.165Z</updated>
+    <link href="files/shelike-ves-mir-nasilya-my-razrushim-do-osnovanya-a-zatem.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Возможности и рамки идеологических средств борьбы в революционном процессе</title>
+    <updated>2026-07-21T12:53:31.447Z</updated>
+    <link href="files/shelike-vozmozhnosti-i-ramki-ideologicheskih-sredstv-borby-v-revolyucionnom.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Вопросы и ответы: О Марксе и марксизме</title>
+    <updated>2026-07-21T12:53:32.095Z</updated>
+    <link href="files/shelike-voprosy-i-otvety-o-markse-i-marksizme.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Всеобщая забастовка 3-8 марта 1919 года в Берлине</title>
+    <updated>2026-07-21T12:53:32.550Z</updated>
+    <link href="files/shelike-vseobshchaya-zabastovka-3-8-marta-1919-goda-v-berline.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Всеобщие противоречия социальной деятельности и их проявление при социализме</title>
+    <updated>2026-07-21T12:53:32.908Z</updated>
+    <link href="files/shelike-vseobshchie-protivorechiya-socialnoy-deyatelnosti-i-ih-proyavlenie-pri-socializme.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Государственный аппарат как арена классовой борьбы</title>
+    <updated>2026-07-21T12:53:33.131Z</updated>
+    <link href="files/shelike-gosudarstvennyy-apparat-kak-arena-klassovoy-borby.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Гражданское общество</title>
+    <updated>2026-07-21T12:53:33.305Z</updated>
+    <link href="files/shelike-grazhdanskoe-obshchestvo.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Действительность по Марксу</title>
+    <updated>2026-07-21T12:53:33.681Z</updated>
+    <link href="files/shelike-deystvitelnost-po-marksu.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектика как логика истории: Категориальные ряды Науки истории (вслед за Марксом)</title>
+    <updated>2026-07-21T12:53:33.934Z</updated>
+    <link href="files/shelike-dialektika-kak-logika-istorii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ерусалимский А. С. — Учитель жизни. Защита диссертации</title>
+    <updated>2026-07-21T12:53:35.325Z</updated>
+    <link href="files/shelike-erusalimskiy-uchitel-zhizni-zashchita-dissertacii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Заметки для себя</title>
+    <updated>2026-07-21T12:53:35.714Z</updated>
+    <link href="files/shelike-zametki-dlya-sebya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Заметки на проспект книги о марксизме</title>
+    <updated>2026-07-21T12:53:35.974Z</updated>
+    <link href="files/shelike-zametki-na-prospekt-knigi-o-marksizme.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Заметки о статье «Alles Einbildung»</title>
+    <updated>2026-07-21T12:53:36.193Z</updated>
+    <link href="files/shelike-zametki-o-state-alles-einbildung.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Записная книжка</title>
+    <updated>2026-07-21T12:53:36.368Z</updated>
+    <link href="files/shelike-zapisnaya-knizhka.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Зачет в качестве обучающего процесса</title>
+    <updated>2026-07-21T12:53:36.592Z</updated>
+    <link href="files/shelike-zachet-v-kachestve-obuchayushchego-processa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Знаете ли вы что такое «Verkehr»?</title>
+    <updated>2026-07-21T12:53:36.837Z</updated>
+    <link href="files/shelike-znaete-li-vy-chto-takoe-verkehr.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Идеи А. В. Бузгалина</title>
+    <updated>2026-07-21T12:53:37.100Z</updated>
+    <link href="files/shelike-idei-buzgalina.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Из дебатов с Андреем Майданским о Марксе (2009–2011 гг.)</title>
+    <updated>2026-07-21T12:53:38.418Z</updated>
+    <link href="files/shelike-iz-debatov-s-andreem-maydanskim-o-markse-2009-2011.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Из писем Франку Прайсу о социализме, о Марксе, о статьях, моем сайте и о многом другом</title>
+    <updated>2026-07-21T12:53:38.959Z</updated>
+    <link href="files/shelike-iz-pisem-franku-praysu-o-socializme.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Изменения социальной структуру рабочего класса и проблемы его революционности</title>
+    <updated>2026-07-21T12:53:39.199Z</updated>
+    <link href="files/shelike-izmeneniya-socialnoy-strukturu-rabochego-klassa-i-problemy-ego-revolyucionnosti.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Исходное определение социальной революции</title>
+    <updated>2026-07-21T12:53:39.668Z</updated>
+    <link href="files/shelike-ishodnoe-opredelenie-socialnoy-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Исходное основание материалистического понимания истории</title>
+    <updated>2026-07-21T12:53:40.185Z</updated>
+    <link href="files/shelike-ishodnoe-osnovanie-materialisticheskogo-ponimaniya-istorii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Исходные основания материалистического понимания истории (По работам К. Маркса и Ф. Энгельса 1844-46 гг.). Часть II</title>
+    <updated>2026-07-21T12:53:43.168Z</updated>
+    <link href="files/shelike-ishodnye-osnovaniya-materialisticheskogo-ponimaniya-istorii-chast-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Исходные основания материалистического понимания истории (По работам К. Маркса и Ф. Энгельса 1844-46 гг.)</title>
+    <updated>2026-07-21T12:53:46.901Z</updated>
+    <link href="files/shelike-ishodnye-osnovaniya-materialisticheskogo-ponimaniya-istorii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К вопросу о перегруппировке революционных сил в ходе революции</title>
+    <updated>2026-07-21T12:53:47.153Z</updated>
+    <link href="files/shelike-k-voprosu-o-peregruppirovke-revolyucionnyh-sil-v-hode-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К вопросу о сущности и содержании пролетарского интернационализма</title>
+    <updated>2026-07-21T12:53:47.404Z</updated>
+    <link href="files/shelike-k-voprosu-o-sushchnosti-i-soderzhanii-proletarskogo-internacionalizma.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К вопросу об определении К. Марксом сущности человека как ансамбля общественных отношений</title>
+    <updated>2026-07-21T12:53:47.650Z</updated>
+    <link href="files/shelike-k-voprosu-ob-opredelenii-marksom-sushchnosti-cheloveka-kak-ansamblya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Категориальный аппарат теории или документ эпохи</title>
+    <updated>2026-07-21T12:53:47.864Z</updated>
+    <link href="files/shelike-kategorialnyy-apparat-teorii-ili-dokument-epohi.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарии к статье А. Д. Майданского «„Не отомрёт, с-собака!“: Э. В. Ильенков о государстве»</title>
+    <updated>2026-07-21T12:53:48.326Z</updated>
+    <link href="files/shelike-kommentarii-k-state-maydanskogo-ne-otomryot-s-sobaka.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарии к статье В. М. Межуева «История как философская проблема»</title>
+    <updated>2026-07-21T12:53:48.564Z</updated>
+    <link href="files/shelike-kommentarii-k-state-mezhueva-istoriya-kak-filosofskaya-problema.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарий к статье А. В. Бузгалина «Социализм, коммунизм и будущее России…»</title>
+    <updated>2026-07-21T12:53:48.742Z</updated>
+    <link href="files/shelike-kommentariy-k-state-buzgalina-socializm-kommunizm-i-budushchee.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарий к статье Б. Кагарлицкого «Другой мир возможен»</title>
+    <updated>2026-07-21T12:53:48.926Z</updated>
+    <link href="files/shelike-kommentariy-k-state-kagarlickogo-drugoy-mir-vozmozhen.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарий на выступление Я. С. Драбкина «Нерешенные проблемы изучения социальных революций»</title>
+    <updated>2026-07-21T12:53:49.160Z</updated>
+    <link href="files/shelike-kommentariy-na-vystuplenie-drabkina-nereshennye-problemy-izucheniya-socialnyh-revolyuciy.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарий на сообщение Р. Н. Блюма «Место реформы в революционной борьбе»</title>
+    <updated>2026-07-21T12:53:49.373Z</updated>
+    <link href="files/shelike-kommentariy-na-soobshchenie-blyuma-mesto-reformy-v-revolyucionnoy-borbe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Комментарий на сообщение В. С. Рахманина «Политическое сознание масс в революционной ситуации»</title>
+    <updated>2026-07-21T12:53:49.602Z</updated>
+    <link href="files/shelike-kommentariy-na-soobshchenie-rahmanina-politicheskoe-soznanie-mass-v-revolyucionnoy-situacii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Критерии социального прогресса и проблема кризиса цивилизации</title>
+    <updated>2026-07-21T12:53:49.860Z</updated>
+    <link href="files/shelike-kriterii-socialnogo-progressa-i-problema-krizisa-civilizacii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Критерии социального прогресса</title>
+    <updated>2026-07-21T12:53:50.211Z</updated>
+    <link href="files/shelike-kriterii-socialnogo-progressa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Круглый стол: Марксизм в пространстве культуры</title>
+    <updated>2026-07-21T12:53:50.463Z</updated>
+    <link href="files/shelike-kruglyy-stol-marksizm-v-prostranstve-kultury.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Логическое и историческое в определениях социального и общественного (Маркс и современность). Версия 2</title>
+    <updated>2026-07-21T12:53:50.767Z</updated>
+    <link href="files/shelike-logicheskoe-i-istoricheskoe-v-opredeleniyah-socialnogo-i-obshchestvennogo-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Логическое и историческое в определениях социального и общественного (Маркс и современность). Версия 1</title>
+    <updated>2026-07-21T12:53:51.102Z</updated>
+    <link href="files/shelike-logicheskoe-i-istoricheskoe-v-opredeleniyah-socialnogo-i-obshchestvennogo.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Любовь Карла Маркса и Женни Маркс в контексте всеобщих определений любви</title>
+    <updated>2026-07-21T12:53:51.583Z</updated>
+    <link href="files/shelike-lyubov-karla-marksa-i-zhenni-marks.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Маркс в СССР</title>
+    <updated>2026-07-21T12:53:51.830Z</updated>
+    <link href="files/shelike-marks-v-sssr.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Маркс и Ф. Энгельс о взаимодействии производства и общения в историческом процессе</title>
+    <updated>2026-07-21T12:53:52.289Z</updated>
+    <link href="files/shelike-marks-i-engels-o-vzaimodeystvii-proizvodstva-i-obshcheniya-v-istoricheskom-processe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Маркс и Ф. Энгельс о содержании и преемственности пролетарского интернационализма</title>
+    <updated>2026-07-21T12:53:52.617Z</updated>
+    <link href="files/shelike-marks-i-engels-o-soderzhanii-i-preemstvennosti-proletarskogo-internacionalizma.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Маркс и Ф. Энгельс об источниках социальной революции (по работам 1844-46 гг.)</title>
+    <updated>2026-07-21T12:53:52.933Z</updated>
+    <link href="files/shelike-marks-i-engels-ob-istochnikah-socialnoy-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Маркс и Ф. Энгельс об общении как одном из видов человеческого отношения к миру</title>
+    <updated>2026-07-21T12:53:53.227Z</updated>
+    <link href="files/shelike-marks-i-engels-ob-obshchenii-kak-odnom-iz-vidov-chelovecheskogo-otnosheniya-k-miru.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Марксизм об исторических границах капитализма: Новые формы общения</title>
+    <updated>2026-07-21T12:53:53.473Z</updated>
+    <link href="files/shelike-marksizm-ob-istoricheskih-granicah-kapitalizma.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Марксизм — целостная теория?</title>
+    <updated>2026-07-21T12:53:54.127Z</updated>
+    <link href="files/shelike-marksizm-celostnaya-teoriya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Мартовские бои 1919 г. в Берлине. Автореферат диссертации</title>
+    <updated>2026-07-21T12:53:54.521Z</updated>
+    <link href="files/shelike-martovskie-boi-1919-v-berline-avtoreferat-dissertacii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Методологические аспекты демократической альтернативы</title>
+    <updated>2026-07-21T12:53:54.791Z</updated>
+    <link href="files/shelike-metodologicheskie-aspekty-demokraticheskoy-alternativy.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Методология определения К. Марксом и Ф. Энгельсом производительных сил в работе «Немецкая идеология»</title>
+    <updated>2026-07-21T12:53:55.173Z</updated>
+    <link href="files/shelike-metodologiya-opredeleniya-marksom-i-engelsom-proizvoditelnyh-sil.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Мысли по поводу «ЛОГОС» №2, 2011 г.</title>
+    <updated>2026-07-21T12:53:55.428Z</updated>
+    <link href="files/shelike-mysli-po-povodu-logos-2-2011.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Начало материалистической теории истории у Маркса</title>
+    <updated>2026-07-21T12:53:55.843Z</updated>
+    <link href="files/shelike-nachalo-materialisticheskoy-teorii-istorii-u-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Наш юный друг</title>
+    <updated>2026-07-21T12:53:56.066Z</updated>
+    <link href="files/shelike-nash-yunyy-drug.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Некоторые аспекты марксистской методологии определения философской категории «производство»</title>
+    <updated>2026-07-21T12:53:56.325Z</updated>
+    <link href="files/shelike-nekotorye-aspekty-marksistskoy-metodologii-opredeleniya-filosofskoy-kategorii-proizvodstvo.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Непознанный Маркс и некоторые проблемы современности</title>
+    <updated>2026-07-21T12:53:57.152Z</updated>
+    <link href="files/shelike-nepoznannyy-marks-i-nekotorye-problemy-sovremennosti.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Непознанный Маркс</title>
+    <updated>2026-07-21T12:53:57.439Z</updated>
+    <link href="files/shelike-nepoznannyy-marks.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Нужен ли нам Маркс? (доклад в Институте социологии РАН)</title>
+    <updated>2026-07-21T12:53:58.003Z</updated>
+    <link href="files/shelike-nuzhen-li-nam-marks-doklad-v-institute-sociologii-ran.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Нужен ли нам Маркс?</title>
+    <updated>2026-07-21T12:53:58.541Z</updated>
+    <link href="files/shelike-nuzhen-li-nam-marks-svobodnaya-mysl.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О некоторых проблемах революции 1918-1919 гг. в Германии</title>
+    <updated>2026-07-21T12:53:58.888Z</updated>
+    <link href="files/shelike-o-nekotoryh-problemah-revolyucii-1918-1919-gg-v-germanii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О статье В. А. Бузгалина</title>
+    <updated>2026-07-21T12:53:59.148Z</updated>
+    <link href="files/shelike-o-state-buzgalina.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О чём речь?</title>
+    <updated>2026-07-21T12:53:59.343Z</updated>
+    <link href="files/shelike-o-chyom-rech.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Об исходных посылках материалистического понимания истории в работе К. Маркса и Ф. Энгельса «Немецкая идеология»</title>
+    <updated>2026-07-21T12:53:59.754Z</updated>
+    <link href="files/shelike-ob-ishodnyh-posylkah-materialisticheskogo-ponimaniya-istorii-v-nemeckoy-ideologii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Объем и содержание понятия «общение» (Verkehr) в работе К. Маркса И Ф. Энгельса «Немецкая идеология»</title>
+    <updated>2026-07-21T12:54:00.125Z</updated>
+    <link href="files/shelike-obem-i-soderzhanie-ponyatiya-obshchenie-verkehr.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Определение Ф. Энгельсом содержания понятия «цивилизация»</title>
+    <updated>2026-07-21T12:54:00.383Z</updated>
+    <link href="files/shelike-opredelenie-engelsom-soderzhaniya-ponyatiya-civilizaciya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Основа всей истории (по Марксу и Энгельсу)</title>
+    <updated>2026-07-21T12:54:00.809Z</updated>
+    <link href="files/shelike-osnova-vsey-istorii-po-marksu-i-engelsu.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Парадоксы моей биографии</title>
+    <updated>2026-07-21T12:54:01.025Z</updated>
+    <link href="files/shelike-paradoksy-moey-biografii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Переходные формы власти</title>
+    <updated>2026-07-21T12:54:01.333Z</updated>
+    <link href="files/shelike-perehodnye-formy-vlasti.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Понятийный кавардак</title>
+    <updated>2026-07-21T12:54:01.578Z</updated>
+    <link href="files/shelike-ponyatiynyy-kavardak.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Принципы и системы типологии революций</title>
+    <updated>2026-07-21T12:54:01.898Z</updated>
+    <link href="files/shelike-principy-i-sistemy-tipologii-revolyuciy.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Программа спецкурса «К. Маркс и Ф. Энгельс о социальной революции»</title>
+    <updated>2026-07-21T12:54:02.266Z</updated>
+    <link href="files/shelike-programma-speckursa-marks-i-engels-o-socialnoy-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Раскрытие понятия «социальная революция» в советской историографии</title>
+    <updated>2026-07-21T12:54:02.500Z</updated>
+    <link href="files/shelike-raskrytie-ponyatiya-socialnaya-revolyuciya-v-sovetskoy-istoriografii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Резюме о материалистической теории истории Маркса</title>
+    <updated>2026-07-21T12:54:02.750Z</updated>
+    <link href="files/shelike-rezyume-o-materialisticheskoy-teorii-istorii-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Роль международных отношений в смене общественно-экономических формации прошлого и настоящего</title>
+    <updated>2026-07-21T12:54:02.989Z</updated>
+    <link href="files/shelike-rol-mezhdunarodnyh-otnosheniy-v-smene-obshchestvenno-ekonomicheskih-formacii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Сверхдетерминация Луи Альтюссера</title>
+    <updated>2026-07-21T12:54:03.214Z</updated>
+    <link href="files/shelike-sverhdeterminaciya-lui-altyussera.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ю. Семенов о смене общественных формаций в истории человечества</title>
+    <updated>2026-07-21T12:54:03.681Z</updated>
+    <link href="files/shelike-semenov-o-smene-obshchestvennyh-formaciy-v-istorii-chelovechestva.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Славой Жижек «13 опытов о Ленине»</title>
+    <updated>2026-07-21T12:54:03.917Z</updated>
+    <link href="files/shelike-slavoy-zhizhek-13-opytov-o-lenine.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Словарь понятий материалистической теории истории (вслед за Марксом)</title>
+    <updated>2026-07-21T12:54:04.421Z</updated>
+    <link href="files/shelike-slovar-ponyatiy-materialisticheskoy-teorii-istorii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Слом государственного аппарата. «Что» ломать и «как» ломать</title>
+    <updated>2026-07-21T12:54:04.695Z</updated>
+    <link href="files/shelike-slom-gosudarstvennogo-apparata-chto-lomat-i-kak-lomat.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Соотношение общечеловеческого и классового в современным революционном процессе (исторический аспект)</title>
+    <updated>2026-07-21T12:54:04.986Z</updated>
+    <link href="files/shelike-sootnoshenie-obshchechelovecheskogo-i-klassovogo-v-sovremennym-revolyucionnom-processe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Социальная революция: общее и особенное</title>
+    <updated>2026-07-21T12:54:07.217Z</updated>
+    <link href="files/shelike-socialnaya-revolyuciya-obshchee-i-osobennoe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Социолог о социальной революции</title>
+    <updated>2026-07-21T12:54:07.476Z</updated>
+    <link href="files/shelike-sociolog-o-socialnoy-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Существуют ли всеобщие критерии прогресса человечества?</title>
+    <updated>2026-07-21T12:54:07.874Z</updated>
+    <link href="files/shelike-sushchestvuyut-li-vseobshchie-kriterii-progressa-chelovechestva.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Теоретическое обоснование Э. В. Ильенковым формирования способности мышления</title>
+    <updated>2026-07-21T12:54:08.150Z</updated>
+    <link href="files/shelike-teoreticheskoe-obosnovanie-ilenkovym-formirovaniya-sposobnosti-myshleniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Требования к переводам Маркса</title>
+    <updated>2026-07-21T12:54:08.400Z</updated>
+    <link href="files/shelike-trebovaniya-k-perevodam-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Что такое любовь?</title>
+    <updated>2026-07-21T12:54:10.617Z</updated>
+    <link href="files/shelike-chto-takoe-lyubov.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Что такое прогресс человечества и что такое производительные силы</title>
+    <updated>2026-07-21T12:54:10.813Z</updated>
+    <link href="files/shelike-chto-takoe-progress-chelovechestva-i-chto-takoe-proizvoditelnye-sily.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Экономическая стратегия пролетариата в революции</title>
+    <updated>2026-07-21T12:54:11.076Z</updated>
+    <link href="files/shelike-ekonomicheskaya-strategiya-proletariata-v-revolyucii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вальтраут Фрицевна Шелике</name>
+    </author>
+  </entry>
+</feed>
