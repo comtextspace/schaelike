@@ -162,6 +162,7 @@
 - [По дорогам войны и мира](шелике-по-дорогам-войны-и-мира.md) (1988) [[files шелике-по-дорогам-войны-и-мира]] [PDF1](https://mega.nz/file/ID9GGYyB#ZgLyV4LAMdu06LKPAYYhhKZ0qrtJXv8koocV-nwCaHc){.file-link} [PDF2](https://mega.nz/file/JOU2hJLR#1lpXS41qKYVogT37QWlD5CGBFRNvhrw1ne76CGyjJsE){.file-link}
 - Исповедь дочери XX века. Жизнь в письмах и дневниках. Ч. 1 (1927-1946) [PDF](https://mega.nz/file/9CUngQZY#2_DqWlJNv1w_hfxuUr9IgXB8EFDwf7L3-CIHOfCFUz4){.file-link}
 - Исповедь дочери XX века. Жизнь в письмах и дневниках. Ч. 2 (1949-1954) [PDF](https://mega.nz/file/BbV2yIDL#2uR3m5VZNSHQKQCayoZ9hWABnA7SmHrP2p3n7nZB6LM){.file-link}
+- Исповедь дочери XX века [doc](https://mega.nz/file/9DlTCD6L#l_BMZT2Wr8dhOmJT84LXJYUY02FrpasdFLFpVq4LlTM){.file-link}
 
 ## Сборники Академии Общественных Наук при ЦК КПСС
 
